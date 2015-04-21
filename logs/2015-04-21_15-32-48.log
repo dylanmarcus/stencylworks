@@ -221,3 +221,525 @@
 2015-04-21 15:47:56,407 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/ActorEvents_2.design
 2015-04-21 15:47:56,409 DEBUG [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Saving block favorites.
 2015-04-21 15:47:56,412 INFO  [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 15:49:58,754 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Loading Closed Resource: Stars
+2015-04-21 15:49:58,980 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Stars
+2015-04-21 15:49:59,216 DEBUG [pool-1-thread-8] stencyl.sw.app.tasks.OpenResourceTask: Open Took 461ms
+2015-04-21 15:49:59,250 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenResourceTask: Total Took 495ms
+2015-04-21 15:50:28,582 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.animation.FrameImportDialog: Import Scale: 1x
+2015-04-21 15:50:28,582 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:50:28,598 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:50:28,625 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:50:30,404 DEBUG [pool-1-thread-8] stencyl.sw.editors.animation.FrameImportDialog: Import Scale: 1x
+2015-04-21 15:50:30,476 DEBUG [pool-1-thread-8] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:50:30,493 DEBUG [pool-1-thread-8] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:50:30,528 DEBUG [pool-1-thread-8] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:50:42,230 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Save Game
+2015-04-21 15:50:42,231 INFO  [pool-1-thread-8] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 15:50:42,235 DEBUG [pool-1-thread-8] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/game.xml.bak.
+2015-04-21 15:50:43,519 DEBUG [pool-1-thread-8] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 15:50:43,521 DEBUG [pool-1-thread-8] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/resources/data.xml.bak.
+2015-04-21 15:50:43,524 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:50:43,529 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:50:43,532 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:50:45,648 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.BackgroundWriter: Mark background as clean (disk).
+2015-04-21 15:50:45,650 DEBUG [pool-1-thread-8] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 15:50:45,651 DEBUG [pool-1-thread-8] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 15:50:45,653 DEBUG [pool-1-thread-8] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/snippets/list.xml.bak.
+2015-04-21 15:50:45,666 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_0
+2015-04-21 15:50:45,668 DEBUG [pool-1-thread-8] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/ActorEvents_0.hx
+2015-04-21 15:50:45,668 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/ActorEvents_0.design
+2015-04-21 15:50:45,668 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_4
+2015-04-21 15:50:45,670 DEBUG [pool-1-thread-8] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/ActorEvents_4.hx
+2015-04-21 15:50:45,670 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/ActorEvents_4.design
+2015-04-21 15:50:45,670 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_2
+2015-04-21 15:50:45,672 DEBUG [pool-1-thread-8] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/ActorEvents_2.hx
+2015-04-21 15:50:45,672 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/ActorEvents_2.design
+2015-04-21 15:50:45,674 DEBUG [pool-1-thread-8] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 15:50:45,678 INFO  [pool-1-thread-8] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 15:51:52,574 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Save Game
+2015-04-21 15:51:52,574 INFO  [pool-1-thread-9] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 15:51:52,578 DEBUG [pool-1-thread-9] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/game.xml.bak.
+2015-04-21 15:51:53,519 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-04-21 15:51:53,918 DEBUG [pool-1-thread-9] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 15:51:53,920 DEBUG [pool-1-thread-9] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/resources/data.xml.bak.
+2015-04-21 15:51:53,924 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:51:54,023 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:51:54,143 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:51:56,351 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.BackgroundWriter: Mark background as clean (disk).
+2015-04-21 15:51:56,353 DEBUG [pool-1-thread-9] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 15:51:56,353 DEBUG [pool-1-thread-9] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 15:51:56,354 DEBUG [pool-1-thread-9] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/snippets/list.xml.bak.
+2015-04-21 15:51:56,366 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_0
+2015-04-21 15:51:56,367 DEBUG [pool-1-thread-9] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/ActorEvents_0.hx
+2015-04-21 15:51:56,367 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/ActorEvents_0.design
+2015-04-21 15:51:56,368 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_4
+2015-04-21 15:51:56,369 DEBUG [pool-1-thread-9] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/ActorEvents_4.hx
+2015-04-21 15:51:56,369 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/ActorEvents_4.design
+2015-04-21 15:51:56,369 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_2
+2015-04-21 15:51:56,371 DEBUG [pool-1-thread-9] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/ActorEvents_2.hx
+2015-04-21 15:51:56,371 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/ActorEvents_2.design
+2015-04-21 15:51:56,373 DEBUG [pool-1-thread-9] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 15:51:56,377 INFO  [pool-1-thread-9] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 15:52:14,398 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.FileDrop: FileDrop: dragEnter event.
+2015-04-21 15:52:14,405 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.FileDrop: FileDrop: normal border saved.
+2015-04-21 15:52:14,405 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.FileDrop: FileDrop: drag border set.
+2015-04-21 15:52:14,405 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.FileDrop: FileDrop: event accepted.
+2015-04-21 15:52:14,918 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.FileDrop: FileDrop: drop event.
+2015-04-21 15:52:14,921 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.FileDrop: FileDrop: file list accepted.
+2015-04-21 15:52:14,926 DEBUG [AWT-EventQueue-0] stencyl.sw.SW: Dragged In: /Users/Yago/stencylworks/games/CC2 Game Assets/Explosion.mp3
+2015-04-21 15:52:15,026 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.FileDrop: FileDrop: drop complete.
+2015-04-21 15:52:15,026 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.FileDrop: FileDrop: normal border restored.
+2015-04-21 15:52:15,064 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.SoundImportTask: Length: 38ms
+2015-04-21 15:52:15,066 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Loading Closed Resource: Explosion
+2015-04-21 15:52:15,121 DEBUG [pool-1-thread-9] stencyl.sw.editors.sound.SoundPlaybackPanel: Stop sound: false
+2015-04-21 15:52:15,594 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Explosion
+2015-04-21 15:52:15,855 DEBUG [pool-1-thread-9] stencyl.sw.app.tasks.OpenResourceTask: Open Took 789ms
+2015-04-21 15:52:15,890 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenResourceTask: Total Took 824ms
+2015-04-21 15:52:45,360 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Save Game
+2015-04-21 15:52:45,360 INFO  [pool-1-thread-9] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 15:52:45,364 DEBUG [pool-1-thread-9] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/game.xml.bak.
+2015-04-21 15:52:46,663 DEBUG [pool-1-thread-9] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 15:52:46,665 DEBUG [pool-1-thread-9] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/resources/data.xml.bak.
+2015-04-21 15:52:46,669 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:52:46,674 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:52:46,761 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SoundWriter: Mark background as clean (disk).
+2015-04-21 15:52:46,766 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:52:46,775 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.BackgroundWriter: Skip writing out Background.
+2015-04-21 15:52:46,775 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.BackgroundWriter: Mark background as clean (disk).
+2015-04-21 15:52:46,777 DEBUG [pool-1-thread-9] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 15:52:46,778 DEBUG [pool-1-thread-9] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 15:52:46,779 DEBUG [pool-1-thread-9] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/snippets/list.xml.bak.
+2015-04-21 15:52:46,791 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_0
+2015-04-21 15:52:46,792 DEBUG [pool-1-thread-9] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/ActorEvents_0.hx
+2015-04-21 15:52:46,793 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/ActorEvents_0.design
+2015-04-21 15:52:46,793 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_4
+2015-04-21 15:52:46,794 DEBUG [pool-1-thread-9] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/ActorEvents_4.hx
+2015-04-21 15:52:46,794 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/ActorEvents_4.design
+2015-04-21 15:52:46,795 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_2
+2015-04-21 15:52:46,796 DEBUG [pool-1-thread-9] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/ActorEvents_2.hx
+2015-04-21 15:52:46,796 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/ActorEvents_2.design
+2015-04-21 15:52:46,798 DEBUG [pool-1-thread-9] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 15:52:46,806 INFO  [pool-1-thread-9] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 15:52:47,419 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Stars
+2015-04-21 15:52:47,421 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Closed Document: Explosion7
+2015-04-21 15:52:47,422 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.sound.SoundPlaybackPanel: Stop sound: false
+2015-04-21 15:52:48,779 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Bullet
+2015-04-21 15:52:48,782 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Closed Document: Stars6
+2015-04-21 15:52:51,600 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Close
+2015-04-21 15:52:51,610 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Enemy Ship
+2015-04-21 15:52:51,613 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Closed Document: Bullet4
+2015-04-21 15:52:58,768 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Close
+2015-04-21 15:52:58,775 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Ship
+2015-04-21 15:52:58,777 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Closed Document: Enemy Ship2
+2015-04-21 15:53:00,232 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Close
+2015-04-21 15:53:00,240 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-04-21 15:53:00,242 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Closed Document: Ship0
+2015-04-21 15:53:08,909 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.FileDrop: FileDrop: dragEnter event.
+2015-04-21 15:53:08,912 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.FileDrop: FileDrop: normal border saved.
+2015-04-21 15:53:08,912 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.FileDrop: FileDrop: drag border set.
+2015-04-21 15:53:08,912 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.FileDrop: FileDrop: event accepted.
+2015-04-21 15:53:09,299 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.FileDrop: FileDrop: drop event.
+2015-04-21 15:53:09,300 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.FileDrop: FileDrop: file list accepted.
+2015-04-21 15:53:09,301 DEBUG [AWT-EventQueue-0] stencyl.sw.SW: Dragged In: /Users/Yago/stencylworks/games/CC2 Game Assets/General Shooter Spacey Level.mp3
+2015-04-21 15:53:09,323 WARN  [AWT-EventQueue-0] stencyl.sw.SW: Cannot determine MIME type for file.
+java.lang.NoClassDefFoundError: org/apache/oro/text/perl/Perl5Util
+	at net.sf.jmimemagic.MagicMatcher.testRegex(MagicMatcher.java:659)
+	at net.sf.jmimemagic.MagicMatcher.testInternal(MagicMatcher.java:433)
+	at net.sf.jmimemagic.MagicMatcher.test(MagicMatcher.java:237)
+	at net.sf.jmimemagic.Magic.getMagicMatch(Magic.java:344)
+	at net.sf.jmimemagic.Magic.getMagicMatch(Magic.java:240)
+	at stencyl.sw.SW.handleDrop(SW.java:1087)
+	at stencyl.sw.app.lists.AbstractList$1.filesDropped(AbstractList.java:117)
+	at stencyl.sw.app.doc.FileDrop$1.drop(FileDrop.java:335)
+	at java.awt.dnd.DropTarget.drop(DropTarget.java:434)
+	at sun.awt.dnd.SunDropTargetContextPeer.processDropMessage(SunDropTargetContextPeer.java:519)
+	at sun.awt.dnd.SunDropTargetContextPeer$EventDispatcher.dispatchDropEvent(SunDropTargetContextPeer.java:832)
+	at sun.awt.dnd.SunDropTargetContextPeer$EventDispatcher.dispatchEvent(SunDropTargetContextPeer.java:756)
+	at sun.awt.dnd.SunDropTargetEvent.dispatch(SunDropTargetEvent.java:30)
+	at java.awt.Component.dispatchEventImpl(Component.java:4633)
+	at java.awt.Container.dispatchEventImpl(Container.java:2142)
+	at java.awt.Component.dispatchEvent(Component.java:4604)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4618)
+	at java.awt.LightweightDispatcher.processDropTargetEvent(Container.java:4353)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4204)
+	at java.awt.Container.dispatchEventImpl(Container.java:2128)
+	at java.awt.Window.dispatchEventImpl(Window.java:2492)
+	at java.awt.Component.dispatchEvent(Component.java:4604)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:717)
+	at java.awt.EventQueue.access$400(EventQueue.java:82)
+	at java.awt.EventQueue$2.run(EventQueue.java:676)
+	at java.awt.EventQueue$2.run(EventQueue.java:674)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:86)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:690)
+	at java.awt.EventQueue$3.run(EventQueue.java:688)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:86)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:687)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:296)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:211)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:196)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:188)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:122)
+Caused by: java.lang.ClassNotFoundException: org.apache.oro.text.perl.Perl5Util
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:202)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:190)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:306)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:301)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:247)
+	... 40 more
+2015-04-21 15:53:09,325 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.FileDrop: FileDrop: drop complete.
+2015-04-21 15:53:09,326 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.FileDrop: FileDrop: normal border restored.
+2015-04-21 15:53:09,382 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.SoundImportTask: Length: 56ms
+2015-04-21 15:53:09,387 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Loading Closed Resource: General Shooter Spacey Level
+2015-04-21 15:53:09,435 DEBUG [pool-1-thread-9] stencyl.sw.editors.sound.SoundPlaybackPanel: Stop sound: false
+2015-04-21 15:53:09,536 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: General Shooter Spacey Level
+2015-04-21 15:53:09,765 DEBUG [pool-1-thread-9] stencyl.sw.app.tasks.OpenResourceTask: Open Took 378ms
+2015-04-21 15:53:09,800 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenResourceTask: Total Took 413ms
+2015-04-21 15:53:20,271 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.sound.SoundPlaybackPanel: No sound cached to play.
+2015-04-21 15:53:38,994 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Save Game
+2015-04-21 15:53:38,994 INFO  [pool-1-thread-9] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 15:53:38,998 DEBUG [pool-1-thread-9] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/game.xml.bak.
+2015-04-21 15:53:39,641 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Save Game
+2015-04-21 15:53:39,642 INFO  [pool-1-thread-10] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 15:53:39,645 DEBUG [pool-1-thread-10] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/game.xml.bak.
+2015-04-21 15:53:40,281 DEBUG [pool-1-thread-9] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 15:53:40,283 DEBUG [pool-1-thread-9] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/resources/data.xml.bak.
+2015-04-21 15:53:40,283 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:53:40,284 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:53:40,284 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SoundWriter: Mark background as clean (disk).
+2015-04-21 15:53:40,391 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SoundWriter: Mark background as clean (disk).
+2015-04-21 15:53:40,391 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:53:40,392 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.BackgroundWriter: Skip writing out Background.
+2015-04-21 15:53:40,392 DEBUG [pool-1-thread-9] stencyl.sw.io.write.resource.BackgroundWriter: Mark background as clean (disk).
+2015-04-21 15:53:40,393 DEBUG [pool-1-thread-9] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 15:53:40,394 DEBUG [pool-1-thread-9] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 15:53:40,396 DEBUG [pool-1-thread-9] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/snippets/list.xml.bak.
+2015-04-21 15:53:40,405 DEBUG [pool-1-thread-9] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 15:53:40,409 INFO  [pool-1-thread-9] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 15:53:40,943 DEBUG [pool-1-thread-10] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 15:53:40,945 DEBUG [pool-1-thread-10] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/resources/data.xml.bak.
+2015-04-21 15:53:40,946 DEBUG [pool-1-thread-10] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:53:40,946 DEBUG [pool-1-thread-10] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:53:40,946 DEBUG [pool-1-thread-10] stencyl.sw.io.write.resource.SoundWriter: Mark background as clean (disk).
+2015-04-21 15:53:40,958 DEBUG [pool-1-thread-10] stencyl.sw.io.write.resource.SoundWriter: Mark background as clean (disk).
+2015-04-21 15:53:40,958 DEBUG [pool-1-thread-10] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:53:40,959 DEBUG [pool-1-thread-10] stencyl.sw.io.write.resource.BackgroundWriter: Skip writing out Background.
+2015-04-21 15:53:40,959 DEBUG [pool-1-thread-10] stencyl.sw.io.write.resource.BackgroundWriter: Mark background as clean (disk).
+2015-04-21 15:53:40,960 DEBUG [pool-1-thread-10] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 15:53:40,961 DEBUG [pool-1-thread-10] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 15:53:40,962 DEBUG [pool-1-thread-10] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/snippets/list.xml.bak.
+2015-04-21 15:53:40,970 DEBUG [pool-1-thread-10] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 15:53:40,974 INFO  [pool-1-thread-10] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 15:53:42,411 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-04-21 15:53:42,414 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Closed Document: General Shooter Spacey Level8
+2015-04-21 15:53:42,414 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.sound.SoundPlaybackPanel: Stop sound: false
+2015-04-21 15:54:46,298 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.dialogs.ScenePropertiesPanel: This game has this num of scenes: 0
+2015-04-21 15:54:46,298 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.dialogs.ScenePropertiesPanel: Marking as default scene: 0
+2015-04-21 15:54:46,339 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Loading Closed Resource: Level One
+2015-04-21 15:54:46,496 DEBUG [pool-1-thread-11] stencyl.sw.editors.scene.Designer: Brush Changed
+2015-04-21 15:54:47,810 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Level One
+2015-04-21 15:54:48,282 DEBUG [pool-1-thread-11] stencyl.sw.editors.scene.Designer: Brush Changed
+2015-04-21 15:54:48,378 DEBUG [pool-1-thread-11] stencyl.sw.editors.scene.Designer: Brush Changed
+2015-04-21 15:54:48,381 DEBUG [pool-1-thread-11] stencyl.sw.app.tasks.OpenResourceTask: Open Took 2042ms
+2015-04-21 15:54:48,416 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenResourceTask: Total Took 2077ms
+2015-04-21 15:56:26,192 INFO  [pool-1-thread-12] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 15:56:26,196 DEBUG [pool-1-thread-12] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/game.xml.bak.
+2015-04-21 15:56:27,489 DEBUG [pool-1-thread-12] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 15:56:27,491 DEBUG [pool-1-thread-12] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/resources/data.xml.bak.
+2015-04-21 15:56:27,492 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:56:27,492 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:56:27,493 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.SoundWriter: Mark background as clean (disk).
+2015-04-21 15:56:27,500 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.SoundWriter: Mark background as clean (disk).
+2015-04-21 15:56:27,501 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:56:27,501 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.BackgroundWriter: Skip writing out Background.
+2015-04-21 15:56:27,501 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.BackgroundWriter: Mark background as clean (disk).
+2015-04-21 15:56:27,503 DEBUG [pool-1-thread-12] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 15:56:27,513 DEBUG [pool-1-thread-12] stencyl.sw.editors.scene.SceneRenderer: Saving thumbnail: /Users/Yago/stencylworks/games/Invaders/scenes/0.png
+2015-04-21 15:56:27,523 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.SceneWriter: Writing terrain.
+2015-04-21 15:56:27,525 DEBUG [pool-1-thread-12] stencyl.core.physics.util.Combiner: Num Tiles: 0
+2015-04-21 15:56:27,525 DEBUG [pool-1-thread-12] stencyl.core.physics.util.Combiner: Coverage: 0.0%
+2015-04-21 15:56:27,525 DEBUG [pool-1-thread-12] stencyl.core.physics.util.Combiner: Segments: (1,1)
+2015-04-21 15:56:27,526 DEBUG [pool-1-thread-12] stencyl.core.physics.util.Combiner: Using Pairwise
+2015-04-21 15:56:27,526 DEBUG [pool-1-thread-12] stencyl.core.physics.util.Combiner: Combine took: 1ms
+2015-04-21 15:56:27,526 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.SceneWriter: Terrain processing took: 0ms
+2015-04-21 15:56:27,662 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.ScenesWriter: Writing out Scene Level One
+2015-04-21 15:56:27,662 DEBUG [pool-1-thread-12] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 15:56:27,663 DEBUG [pool-1-thread-12] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/snippets/list.xml.bak.
+2015-04-21 15:56:27,716 DEBUG [pool-1-thread-12] stencyl.sw.app.doc.StencylDoc: Marking as written to disk: Level One
+2015-04-21 15:56:27,716 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: SceneEvents_0
+2015-04-21 15:56:27,718 DEBUG [pool-1-thread-12] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/SceneEvents_0.hx
+2015-04-21 15:56:27,718 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/SceneEvents_0.design
+2015-04-21 15:56:27,724 DEBUG [pool-3-thread-4] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/Yago/stencylworks/preview/scripts/SceneEvents_0.hx. Took 2 ms.
+2015-04-21 15:56:27,724 DEBUG [pool-3-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/Yago/stencylworks/preview/scripts/ActorEvents_0.hx. Took 3 ms.
+2015-04-21 15:56:27,726 DEBUG [pool-3-thread-2] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/Yago/stencylworks/preview/scripts/ActorEvents_2.hx. Took 5 ms.
+2015-04-21 15:56:27,726 DEBUG [pool-3-thread-3] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/Yago/stencylworks/preview/scripts/ActorEvents_4.hx. Took 5 ms.
+2015-04-21 15:56:27,727 DEBUG [pool-1-thread-12] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 15:56:27,732 INFO  [pool-1-thread-12] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 15:56:27,777 INFO  [pool-1-thread-12] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 15:56:27,780 DEBUG [pool-1-thread-12] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/game.xml.bak.
+2015-04-21 15:56:29,056 DEBUG [pool-1-thread-12] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 15:56:29,058 DEBUG [pool-1-thread-12] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/resources/data.xml.bak.
+2015-04-21 15:56:29,059 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:56:29,060 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:56:29,060 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.SoundWriter: Mark background as clean (disk).
+2015-04-21 15:56:29,065 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.SoundWriter: Mark background as clean (disk).
+2015-04-21 15:56:29,066 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:56:29,066 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.BackgroundWriter: Skip writing out Background.
+2015-04-21 15:56:29,066 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.BackgroundWriter: Mark background as clean (disk).
+2015-04-21 15:56:29,068 DEBUG [pool-1-thread-12] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 15:56:29,072 DEBUG [pool-1-thread-12] stencyl.sw.editors.scene.SceneRenderer: Saving thumbnail: /Users/Yago/stencylworks/games/Invaders/scenes/0.png
+2015-04-21 15:56:29,083 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.SceneWriter: Writing terrain.
+2015-04-21 15:56:29,083 DEBUG [pool-1-thread-12] stencyl.core.physics.util.Combiner: Num Tiles: 0
+2015-04-21 15:56:29,083 DEBUG [pool-1-thread-12] stencyl.core.physics.util.Combiner: Coverage: 0.0%
+2015-04-21 15:56:29,083 DEBUG [pool-1-thread-12] stencyl.core.physics.util.Combiner: Segments: (1,1)
+2015-04-21 15:56:29,083 DEBUG [pool-1-thread-12] stencyl.core.physics.util.Combiner: Using Pairwise
+2015-04-21 15:56:29,084 DEBUG [pool-1-thread-12] stencyl.core.physics.util.Combiner: Combine took: 1ms
+2015-04-21 15:56:29,084 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.SceneWriter: Terrain processing took: 0ms
+2015-04-21 15:56:29,086 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.ScenesWriter: Writing out Scene Level One
+2015-04-21 15:56:29,086 DEBUG [pool-1-thread-12] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 15:56:29,087 DEBUG [pool-1-thread-12] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/snippets/list.xml.bak.
+2015-04-21 15:56:29,098 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: SceneEvents_0
+2015-04-21 15:56:29,099 DEBUG [pool-1-thread-12] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/SceneEvents_0.hx
+2015-04-21 15:56:29,099 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/SceneEvents_0.design
+2015-04-21 15:56:29,102 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.SnippetsWriter: ActorEvents_0 is clean (on disk and already copied). Skip.
+2015-04-21 15:56:29,102 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.SnippetsWriter: ActorEvents_2 is clean (on disk and already copied). Skip.
+2015-04-21 15:56:29,102 DEBUG [pool-1-thread-12] stencyl.sw.io.write.resource.SnippetsWriter: ActorEvents_4 is clean (on disk and already copied). Skip.
+2015-04-21 15:56:29,104 DEBUG [pool-4-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/Yago/stencylworks/preview/scripts/SceneEvents_0.hx. Took 2 ms.
+2015-04-21 15:56:29,105 DEBUG [pool-1-thread-12] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 15:56:29,108 INFO  [pool-1-thread-12] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 15:56:29,142 INFO  [AWT-EventQueue-0] stencyl.sw.io.write.resource.HXWriter: Running HXWriter with arguments: FLASH
+2015-04-21 15:56:29,143 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, neko]
+2015-04-21 15:56:29,163 DEBUG [Thread-13] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 15:56:29,163 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 15:56:29,163 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, adb]
+2015-04-21 15:56:29,176 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 15:56:29,177 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 15:56:29,177 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, arm-linux-androideabi-g++]
+2015-04-21 15:56:29,190 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 15:56:29,190 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 15:56:29,191 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, cc1plus]
+2015-04-21 15:56:29,206 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 15:56:29,206 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 15:56:29,207 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, tail]
+2015-04-21 15:56:29,222 DEBUG [Thread-17] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 15:56:29,223 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 15:56:29,223 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, ios-sim]
+2015-04-21 15:56:29,241 DEBUG [Thread-18] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 15:56:29,241 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 15:56:29,247 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /Users/Yago/Library/Preferences/Macromedia/Flash Player/Logs/flashlog.txt
+2015-04-21 15:56:29,252 DEBUG [pool-1-thread-13] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games-generated/Invaders/Assets/graphics
+2015-04-21 15:56:29,253 DEBUG [pool-1-thread-13] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games-generated/Invaders/Export/iPhone/build
+2015-04-21 15:56:29,253 DEBUG [pool-1-thread-13] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games-generated/Invaders/Export/cpp/mac/bin
+2015-04-21 15:56:29,266 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.HXWriter: Skipping... Ship
+2015-04-21 15:56:29,267 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1x
+2015-04-21 15:56:29,268 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1.5x
+2015-04-21 15:56:29,269 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 2x
+2015-04-21 15:56:29,270 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 4x
+2015-04-21 15:56:29,271 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.HXWriter: Skipping... Enemy Ship
+2015-04-21 15:56:29,271 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1x
+2015-04-21 15:56:29,272 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1.5x
+2015-04-21 15:56:29,273 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 2x
+2015-04-21 15:56:29,273 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 4x
+2015-04-21 15:56:29,274 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.HXWriter: Skipping... Bullet
+2015-04-21 15:56:29,274 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1x
+2015-04-21 15:56:29,275 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1.5x
+2015-04-21 15:56:29,276 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 2x
+2015-04-21 15:56:29,276 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 4x
+2015-04-21 15:56:29,277 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1x
+2015-04-21 15:56:29,279 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1.5x
+2015-04-21 15:56:29,282 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 2x
+2015-04-21 15:56:29,284 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 4x
+2015-04-21 15:56:29,297 DEBUG [pool-1-thread-13] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games-generated/Invaders/Assets/graphics/3x
+2015-04-21 15:56:29,302 DEBUG [pool-1-thread-13] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/game.xml.bak.
+2015-04-21 15:56:30,600 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.HXWriter: Skipping... Ship
+2015-04-21 15:56:30,600 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.HXWriter: Skipping... Enemy Ship
+2015-04-21 15:56:30,600 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.HXWriter: Skipping... Bullet
+2015-04-21 15:56:30,606 DEBUG [pool-5-thread-3] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/Yago/stencylworks/preview/scripts/ActorEvents_4.hx. Took 2 ms.
+2015-04-21 15:56:30,606 DEBUG [pool-5-thread-2] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/Yago/stencylworks/preview/scripts/ActorEvents_2.hx. Took 2 ms.
+2015-04-21 15:56:30,609 DEBUG [pool-5-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/Yago/stencylworks/preview/scripts/ActorEvents_0.hx. Took 5 ms.
+2015-04-21 15:56:30,609 DEBUG [pool-5-thread-4] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/Yago/stencylworks/preview/scripts/SceneEvents_0.hx. Took 3 ms.
+2015-04-21 15:56:30,628 DEBUG [pool-1-thread-13] stencyl.sw.util.Util: Running command: [/Applications/Stencyl-full/plaf/openfl, -verbose, build, -debug, project.xml, flash]
+2015-04-21 15:56:30,694 INFO  [Thread-19] stencyl.sw.util.StreamGobbler: [openfl] haxelib repository is now /Applications/Stencyl-full/plaf/haxe/lib/
+2015-04-21 15:56:30,932 INFO  [Thread-19] stencyl.sw.util.StreamGobbler: [openfl] OpenFL Command-Line Tools (2.2.4-LMdfg5)
+2015-04-21 15:56:30,932 INFO  [Thread-19] stencyl.sw.util.StreamGobbler: [openfl] Initializing project...
+2015-04-21 15:56:30,933 INFO  [Thread-19] stencyl.sw.util.StreamGobbler: [openfl] Using project file: project.xml
+2015-04-21 15:56:30,933 INFO  [Thread-19] stencyl.sw.util.StreamGobbler: [openfl] Reading HXCPP config: /Users/Yago/.hxcpp_config.xml
+2015-04-21 15:56:31,068 INFO  [Thread-19] stencyl.sw.util.StreamGobbler: [openfl] Using target platform: FLASH
+2015-04-21 15:56:31,068 INFO  [Thread-19] stencyl.sw.util.StreamGobbler: [openfl] Running command: UPDATE
+2015-04-21 15:56:31,069 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Creating directory: Export/flash
+2015-04-21 15:56:31,069 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Creating directory: Export/flash/bin
+2015-04-21 15:56:31,069 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/background-6-0.png
+2015-04-21 15:56:31,069 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-1-0.png
+2015-04-21 15:56:31,069 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-3-0.png
+2015-04-21 15:56:31,070 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-5-0.png
+2015-04-21 15:56:31,070 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/1x/background-6-0.png
+2015-04-21 15:56:31,070 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-1-0.png
+2015-04-21 15:56:31,070 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-3-0.png
+2015-04-21 15:56:31,070 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-5-0.png
+2015-04-21 15:56:31,070 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/2x/background-6-0.png
+2015-04-21 15:56:31,070 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-1-0.png
+2015-04-21 15:56:31,070 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-3-0.png
+2015-04-21 15:56:31,070 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-5-0.png
+2015-04-21 15:56:31,070 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/4x/background-6-0.png
+2015-04-21 15:56:31,070 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-1-0.png
+2015-04-21 15:56:31,071 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-3-0.png
+2015-04-21 15:56:31,071 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-5-0.png
+2015-04-21 15:56:31,071 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (TEXT) Assets/graphics/default-font.fnt
+2015-04-21 15:56:31,071 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/default-font.png
+2015-04-21 15:56:31,071 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/preloader-badge.png
+2015-04-21 15:56:31,071 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg.png
+2015-04-21 15:56:31,071 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@1.5x.png
+2015-04-21 15:56:31,071 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@2x.png
+2015-04-21 15:56:31,072 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@4x.png
+2015-04-21 15:56:31,072 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (MUSIC) Assets/music/sound-8.mp3
+2015-04-21 15:56:31,072 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (SOUND) Assets/sfx/sound-7.mp3
+2015-04-21 15:56:31,072 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (TEXT) Assets/data/behaviors.xml
+2015-04-21 15:56:31,072 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (TEXT) Assets/data/game.xml
+2015-04-21 15:56:31,072 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (TEXT) Assets/data/resources.xml
+2015-04-21 15:56:31,072 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (BINARY) Assets/data/scene-0.scn
+2015-04-21 15:56:31,073 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (TEXT) Assets/data/scene-0.xml
+2015-04-21 15:56:31,073 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (TEXT) Assets/data/scenes.xml
+2015-04-21 15:56:31,073 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Creating directory: Export/flash/obj
+2015-04-21 15:56:31,073 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/background-6-0.png
+2015-04-21 15:56:31,073 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-1-0.png
+2015-04-21 15:56:31,074 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-3-0.png
+2015-04-21 15:56:31,074 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-5-0.png
+2015-04-21 15:56:31,074 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/1x/background-6-0.png
+2015-04-21 15:56:31,074 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-1-0.png
+2015-04-21 15:56:31,074 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-3-0.png
+2015-04-21 15:56:31,074 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-5-0.png
+2015-04-21 15:56:31,074 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/2x/background-6-0.png
+2015-04-21 15:56:31,074 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-1-0.png
+2015-04-21 15:56:31,075 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-3-0.png
+2015-04-21 15:56:31,075 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-5-0.png
+2015-04-21 15:56:31,075 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/4x/background-6-0.png
+2015-04-21 15:56:31,075 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-1-0.png
+2015-04-21 15:56:31,075 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-3-0.png
+2015-04-21 15:56:31,076 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-5-0.png
+2015-04-21 15:56:31,076 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (TEXT) Assets/graphics/default-font.fnt
+2015-04-21 15:56:31,076 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/default-font.png
+2015-04-21 15:56:31,076 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/preloader-badge.png
+2015-04-21 15:56:31,076 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg.png
+2015-04-21 15:56:31,076 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@1.5x.png
+2015-04-21 15:56:31,076 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@2x.png
+2015-04-21 15:56:31,076 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@4x.png
+2015-04-21 15:56:31,077 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (MUSIC) Assets/music/sound-8.mp3
+2015-04-21 15:56:32,054 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (SOUND) Assets/sfx/sound-7.mp3
+2015-04-21 15:56:32,057 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (TEXT) Assets/data/behaviors.xml
+2015-04-21 15:56:32,057 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (TEXT) Assets/data/game.xml
+2015-04-21 15:56:32,057 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (TEXT) Assets/data/resources.xml
+2015-04-21 15:56:32,057 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (BINARY) Assets/data/scene-0.scn
+2015-04-21 15:56:32,058 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (TEXT) Assets/data/scene-0.xml
+2015-04-21 15:56:32,058 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Embedding asset: (TEXT) Assets/data/scenes.xml
+2015-04-21 15:56:32,447 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Creating directory: Export/flash/haxe
+2015-04-21 15:56:32,447 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Copying template file: /Applications/Stencyl-full/plaf/haxe/lib/lime/lime/templates/haxe/ApplicationMain.hx -> Export/flash/haxe/ApplicationMain.hx
+2015-04-21 15:56:32,450 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Copying template file: /Applications/Stencyl-full/plaf/haxe/lib/lime/lime/templates/haxe/DefaultAssetLibrary.hx -> Export/flash/haxe/DefaultAssetLibrary.hx
+2015-04-21 15:56:32,456 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Copying template file: /Applications/Stencyl-full/plaf/haxe/lib/openfl/openfl/templates/haxe/ApplicationMain.hx -> Export/flash/haxe/ApplicationMain.hx
+2015-04-21 15:56:32,459 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Copying template file: /Applications/Stencyl-full/plaf/haxe/lib/openfl/openfl/templates/haxe/NMEPreloader.hx -> Export/flash/haxe/NMEPreloader.hx
+2015-04-21 15:56:32,459 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Copying template file: /Applications/Stencyl-full/plaf/haxe/lib/lime/lime/templates/flash/hxml/debug.hxml -> Export/flash/haxe/debug.hxml
+2015-04-21 15:56:32,460 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Copying template file: /Applications/Stencyl-full/plaf/haxe/lib/lime/lime/templates/flash/hxml/final.hxml -> Export/flash/haxe/final.hxml
+2015-04-21 15:56:32,461 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Copying template file: /Applications/Stencyl-full/plaf/haxe/lib/lime/lime/templates/flash/hxml/release.hxml -> Export/flash/haxe/release.hxml
+2015-04-21 15:56:32,462 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Copying template file: /Applications/Stencyl-full/plaf/haxe/lib/openfl/openfl/templates/flash/hxml/debug.hxml -> Export/flash/haxe/debug.hxml
+2015-04-21 15:56:32,463 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Copying template file: /Applications/Stencyl-full/plaf/haxe/lib/openfl/openfl/templates/flash/hxml/final.hxml -> Export/flash/haxe/final.hxml
+2015-04-21 15:56:32,464 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Copying template file: /Applications/Stencyl-full/plaf/haxe/lib/openfl/openfl/templates/flash/hxml/release.hxml -> Export/flash/haxe/release.hxml
+2015-04-21 15:56:32,465 INFO  [Thread-19] stencyl.sw.util.StreamGobbler: [openfl] Running command: BUILD
+2015-04-21 15:56:32,466 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [openfl]  - Running command: haxe -main ApplicationMain -cp /Applications/Stencyl-full/plaf/haxe/lib/openfl/openfl -D openfl=2.2.4 -cp /Applications/Stencyl-full/plaf/haxe/lib/lime/lime -D lime=2.0.6 -cp /Applications/Stencyl-full/plaf/haxe/lib/actuate/1,6,5 -D actuate=1.6.5 -cp /Applications/Stencyl-full/plaf/haxe/lib/console/1,00 -D console -cp /Applications/Stencyl-full/plaf/haxe/lib/polygonal-ds/1,4,1 -D polygonal-ds=1.4.1 -cp /Applications/Stencyl-full/plaf/haxe/lib/polygonal-printf/1,0,0-beta -D polygonal-printf=1.0.0-beta -cp /Applications/Stencyl-full/plaf/haxe/lib/box2d/1,11 -D box2d -cp /Applications/Stencyl-full/plaf/haxe/lib/stencyl/1,00 -D stencyl -cp Source -cp /Applications/Stencyl-full/plaf/haxe/extensions/gestures -D lime-openal -D tools=2.0.6 -D flash-use-stage -D no-compilation -D lime-opengl -D openfl-flash -D lime-curl -D web --remap nme:openfl -D network-sandbox -D as3_native -D swf-directblit -swf-lib mochi.swf -swf-lib newgrounds.swf -swf-lib cpmstar.swf -resource Assets/graphics/preloader-bg.png@preloader-bg -resource Assets/graphics/preloader-badge.png@preloader-badge -swf-lib Export/flash/obj/assets.swf -swf-version 11 -swf Export/flash/bin/Invaders.swf -cp Export/flash/haxe -debug
+2015-04-21 15:56:35,828 INFO  [Thread-19] stencyl.sw.util.StreamGobbler: [openfl] haxelib repository is now /Applications/Stencyl-full/plaf/haxe/lib/
+2015-04-21 15:56:35,829 DEBUG [pool-1-thread-13] stencyl.sw.util.Util: Process 'openfl' exited with code: 0
+2015-04-21 15:56:35,829 INFO  [pool-1-thread-13] stencyl.sw.io.write.resource.HXWriter: Finished building for Flash.
+2015-04-21 15:56:35,830 DEBUG [pool-1-thread-13] stencyl.sw.util.Util: Running command: [open, -a, /Applications/Stencyl-full/ext-tools/players/flash-10-mac.app, /Users/Yago/stencylworks/games-generated/Invaders/Export/flash/bin/Invaders.swf]
+2015-04-21 15:56:36,763 INFO  [pool-1-thread-12] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(173): Stage Width: 640
+2015-04-21 15:56:36,763 INFO  [pool-1-thread-12] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(174): Stage Height: 480
+2015-04-21 15:56:36,764 INFO  [pool-1-thread-12] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(175): Screen Width: 640
+2015-04-21 15:56:36,764 INFO  [pool-1-thread-12] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(176): Screen Height: 480
+2015-04-21 15:56:36,765 INFO  [pool-1-thread-12] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(177): Screen DPI: 72
+2015-04-21 15:56:36,765 INFO  [pool-1-thread-12] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(342): Max Scale: 4
+2015-04-21 15:56:36,765 INFO  [pool-1-thread-12] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(343): Engine Scale: 1x
+2015-04-21 15:56:36,766 INFO  [pool-1-thread-12] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(697): Scale X: 1
+2015-04-21 15:56:36,766 INFO  [pool-1-thread-12] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(698): Scale Y: 1
+2015-04-21 15:56:40,671 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-04-21 15:56:44,442 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Save Game
+2015-04-21 15:56:44,443 INFO  [pool-1-thread-13] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 15:56:44,447 DEBUG [pool-1-thread-13] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/game.xml.bak.
+2015-04-21 15:56:45,739 DEBUG [pool-1-thread-13] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 15:56:45,741 DEBUG [pool-1-thread-13] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/resources/data.xml.bak.
+2015-04-21 15:56:45,741 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:56:45,742 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:56:45,742 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.SoundWriter: Mark background as clean (disk).
+2015-04-21 15:56:45,749 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.SoundWriter: Mark background as clean (disk).
+2015-04-21 15:56:45,750 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:56:45,750 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.BackgroundWriter: Skip writing out Background.
+2015-04-21 15:56:45,750 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.BackgroundWriter: Mark background as clean (disk).
+2015-04-21 15:56:45,752 DEBUG [pool-1-thread-13] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 15:56:45,756 DEBUG [pool-1-thread-13] stencyl.sw.editors.scene.SceneRenderer: Saving thumbnail: /Users/Yago/stencylworks/games/Invaders/scenes/0.png
+2015-04-21 15:56:45,768 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.SceneWriter: Writing terrain.
+2015-04-21 15:56:45,768 DEBUG [pool-1-thread-13] stencyl.core.physics.util.Combiner: Num Tiles: 0
+2015-04-21 15:56:45,769 DEBUG [pool-1-thread-13] stencyl.core.physics.util.Combiner: Coverage: 0.0%
+2015-04-21 15:56:45,769 DEBUG [pool-1-thread-13] stencyl.core.physics.util.Combiner: Segments: (1,1)
+2015-04-21 15:56:45,769 DEBUG [pool-1-thread-13] stencyl.core.physics.util.Combiner: Using Pairwise
+2015-04-21 15:56:45,769 DEBUG [pool-1-thread-13] stencyl.core.physics.util.Combiner: Combine took: 1ms
+2015-04-21 15:56:45,769 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.SceneWriter: Terrain processing took: 0ms
+2015-04-21 15:56:45,771 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.ScenesWriter: Writing out Scene Level One
+2015-04-21 15:56:45,771 DEBUG [pool-1-thread-13] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 15:56:45,773 DEBUG [pool-1-thread-13] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/snippets/list.xml.bak.
+2015-04-21 15:56:45,785 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: SceneEvents_0
+2015-04-21 15:56:45,786 DEBUG [pool-1-thread-13] stencyl.sw.util.FileHelper: Deleting: /Users/Yago/stencylworks/games/Invaders/behavior-hx/SceneEvents_0.hx
+2015-04-21 15:56:45,884 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/SceneEvents_0.design
+2015-04-21 15:56:45,885 DEBUG [pool-1-thread-13] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 15:56:45,890 INFO  [pool-1-thread-13] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 15:56:46,567 INFO  [AWT-EventQueue-0] stencyl.sw.app.App: Attempting to quit out of Stencyl.
+2015-04-21 15:56:48,142 INFO  [pool-1-thread-13] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 15:56:48,146 DEBUG [pool-1-thread-13] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/game.xml.bak.
+2015-04-21 15:56:49,434 DEBUG [pool-1-thread-13] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 15:56:49,436 DEBUG [pool-1-thread-13] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/resources/data.xml.bak.
+2015-04-21 15:56:49,437 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:56:49,437 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:56:49,437 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.SoundWriter: Mark background as clean (disk).
+2015-04-21 15:56:49,442 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.SoundWriter: Mark background as clean (disk).
+2015-04-21 15:56:49,443 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:56:49,443 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.BackgroundWriter: Skip writing out Background.
+2015-04-21 15:56:49,443 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.BackgroundWriter: Mark background as clean (disk).
+2015-04-21 15:56:49,445 DEBUG [pool-1-thread-13] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 15:56:49,449 DEBUG [pool-1-thread-13] stencyl.sw.editors.scene.SceneRenderer: Saving thumbnail: /Users/Yago/stencylworks/games/Invaders/scenes/0.png
+2015-04-21 15:56:49,459 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.SceneWriter: Writing terrain.
+2015-04-21 15:56:49,460 DEBUG [pool-1-thread-13] stencyl.core.physics.util.Combiner: Num Tiles: 0
+2015-04-21 15:56:49,460 DEBUG [pool-1-thread-13] stencyl.core.physics.util.Combiner: Coverage: 0.0%
+2015-04-21 15:56:49,460 DEBUG [pool-1-thread-13] stencyl.core.physics.util.Combiner: Segments: (1,1)
+2015-04-21 15:56:49,460 DEBUG [pool-1-thread-13] stencyl.core.physics.util.Combiner: Using Pairwise
+2015-04-21 15:56:49,460 DEBUG [pool-1-thread-13] stencyl.core.physics.util.Combiner: Combine took: 0ms
+2015-04-21 15:56:49,460 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.SceneWriter: Terrain processing took: 0ms
+2015-04-21 15:56:49,462 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.ScenesWriter: Writing out Scene Level One
+2015-04-21 15:56:49,463 DEBUG [pool-1-thread-13] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 15:56:49,465 DEBUG [pool-1-thread-13] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/snippets/list.xml.bak.
+2015-04-21 15:56:49,477 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: SceneEvents_0
+2015-04-21 15:56:49,478 DEBUG [pool-1-thread-13] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/SceneEvents_0.hx
+2015-04-21 15:56:49,569 DEBUG [pool-1-thread-13] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/SceneEvents_0.design
+2015-04-21 15:56:49,571 DEBUG [pool-1-thread-13] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 15:56:49,575 INFO  [pool-1-thread-13] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 15:56:49,609 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, neko]
+2015-04-21 15:56:49,635 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 15:56:49,637 DEBUG [Thread-21] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 15:56:49,637 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, adb]
+2015-04-21 15:56:49,656 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 15:56:49,656 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 15:56:49,657 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, arm-linux-androideabi-g++]
+2015-04-21 15:56:49,676 DEBUG [Thread-23] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 15:56:49,676 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 15:56:49,677 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, cc1plus]
+2015-04-21 15:56:49,694 DEBUG [Thread-24] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 15:56:49,694 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 15:56:49,695 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, tail]
+2015-04-21 15:56:49,711 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 15:56:49,711 DEBUG [Thread-25] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 15:56:49,711 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, ios-sim]
+2015-04-21 15:56:49,729 DEBUG [Thread-26] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 15:56:49,729 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 15:56:49,731 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Destroying extensions.
+2015-04-21 15:56:49,731 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Destroying Temporary Sandbox.
+2015-04-21 15:56:49,732 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl8607057898041607011
+2015-04-21 15:56:49,733 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Performing final close.
+2015-04-21 15:56:49,735 INFO  [AWT-EventQueue-0] stencyl.sw.app.App: Exiting...
