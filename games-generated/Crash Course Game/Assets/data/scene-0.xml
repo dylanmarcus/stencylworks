@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="7" extheight="448" extwidth="704" extx="-32" exty="-32" format="3.3.0" gravx="-0.0" gravy="85.0" height="384" id="0" name="Scene 1" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="640">
+    <layers>
+        <grad-bg b1="255" b2="255" g1="204" g2="204" r1="0" r2="153"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="0" id="0" name="Mambo 1" sx="1.0" sy="1.0" x="64" y="320" z="0"/>
+        <actor a="0.0" aid="2" c="false" group="4" id="2" name="Pronger 2" sx="1.0" sy="1.0" x="192" y="320" z="0"/>
+        <actor a="0.0" aid="3" c="false" group="4" id="2" name="Pronger 3" sx="1.0" sy="1.0" x="320" y="320" z="0"/>
+        <actor a="0.0" aid="4" c="false" group="4" id="2" name="Pronger 4" sx="1.0" sy="1.0" x="480" y="320" z="0"/>
+    </actors>
+    <snippets/>
+    <terrain>
+        <p pts="4,0.0,32.0,0.0,0.0,640.0,0.0,640.0,32.0" x="0.0" y="352.0"/>
+    </terrain>
+    <atlases members="" retainAtlases="true"/>
+</scene>

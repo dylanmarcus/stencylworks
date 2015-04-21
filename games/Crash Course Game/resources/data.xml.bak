@@ -167,7 +167,16 @@
         </anim>
     </sprite>
     <actor adamp="0.0" ascale="false" atlasID="0" bodytype="2" continuous="false" desc="A basic enemy that must be jumped on. Like a Goomba." eventsnippetid="6" fixedrot="true" fric="0.2" gid="4" id="2" ignoreg="false" inertia="0.01" ldamp="0.0" mass="0.1" name="Pronger" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="3" static="false">
-        <snippets/>
+        <snippets>
+            <s enabled="true" id="1">
+                <prop id="5" list="0" val="hurt-r"/>
+                <prop id="6" list="0" val="5"/>
+                <prop id="7" list="0" val="0"/>
+                <prop id="8" list="0" val="35"/>
+                <prop id="9" list="0" val="15"/>
+                <prop id="2147483647" list="0" val="thisactor"/>
+            </s>
+        </snippets>
     </actor>
     <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="32" id="3" name="Pronger" shared="false" width="48">
         <anim across="2" down="1" durations="100,100" height="32" id="0" loop="true" name="idle-l" numframes="2" originx="24" originy="16" sync="false" version="1" width="96">

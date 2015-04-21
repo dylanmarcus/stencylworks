@@ -1,0 +1,2 @@
+ -DHXCPP_CLANG="1" -DHXCPP_M64="1" -Dactuate="1" -Dbox2d="1" -Dconsole="1" -Ddesktop="1" -Dhaxe3="1" -Dhaxe_release="1" -Dhaxe_ver="3.01" -Dmac="1" -Dnme="1" -Dnme_install_tool="1" -Dopenfl="1.1" -Dopenfl-compatibility="1" -Dopenfl-native="1" -Dopenfl_compatibility="1" -Dopenfl_native="1" -Dstencyl="1" -Dtools="1.1.0"
+/Users/jon/Documents/stencyl-new/plaf/haxe/lib/hxcpp/3,0,3-beta2/
