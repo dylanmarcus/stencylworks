@@ -1,0 +1,223 @@
+2015-04-21 15:32:48,396 INFO  [main] stencyl.sw.Session: Logfile: /Users/Yago/stencylworks/logs/2015-04-21_15-32-48.log
+2015-04-21 15:32:48,401 INFO  [main] stencyl.sw.Session: OS Name: Mac OS X
+2015-04-21 15:32:48,401 INFO  [main] stencyl.sw.Session: OS Version: 10.10.2
+2015-04-21 15:32:48,402 INFO  [main] stencyl.sw.Session: Java Version: 1.6.0_65
+2015-04-21 15:32:48,402 INFO  [main] stencyl.sw.Session: Stencyl Version: 3.3.0 (b8281)
+2015-04-21 15:32:48,403 INFO  [main] stencyl.sw.Session: Stencyl Workspace: /Users/Yago/
+2015-04-21 15:32:48,403 INFO  [main] stencyl.sw.Session: Current Working Directory: /Applications/Stencyl-full
+2015-04-21 15:32:48,455 DEBUG [main] stencyl.sw.util.FileHelper: Deleting: /var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl8607057898041607011
+2015-04-21 15:32:48,457 INFO  [AWT-EventQueue-0] stencyl.sw.SW: Initializing Stencyl.
+2015-04-21 15:32:48,712 DEBUG [Thread-4] stencyl.sw.util.StreamGobbler: [xcodebuild] Xcode 6.3.1
+2015-04-21 15:32:48,720 DEBUG [Thread-4] stencyl.sw.util.StreamGobbler: [xcodebuild] Build version 6D1002
+2015-04-21 15:32:48,735 INFO  [AWT-EventQueue-0] stencyl.sw.app.filewatcher.ExternalAppLauncher: Xcode found in the /Applications/Xcode.app/Contents/Developer directory (4.3 or newer).
+2015-04-21 15:32:48,736 INFO  [AWT-EventQueue-0] stencyl.sw.app.filewatcher.ExternalAppLauncher: Xcode Version: 6.3
+2015-04-21 15:32:48,738 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtension: Loading engine extensions...
+2015-04-21 15:32:48,740 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Contents of /Users/Yago/stencylworks/engine-extensions: []
+2015-04-21 15:32:48,740 INFO  [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtension: Engine Extensions: []
+2015-04-21 15:32:48,746 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Contents of /Users/Yago/stencylworks/extensions: []
+2015-04-21 15:32:49,542 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Welcome Center
+2015-04-21 15:32:49,547 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Silent Authentication.
+2015-04-21 15:32:49,864 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Response: user:::plans0
+2015-04-21 15:32:49,865 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Deleting: /Users/Yago/stencylworks/prefs/auth.txt
+2015-04-21 15:32:49,870 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Logged in as: RipeTheWorld
+2015-04-21 15:32:49,871 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Usergroup: Registered
+2015-04-21 15:32:50,342 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: 200
+2015-04-21 15:33:14,920 INFO  [AWT-EventQueue-0] stencyl.sw.editors.game.settings.GamePropertiesDialog: Creating a blank game.
+2015-04-21 15:33:14,931 INFO  [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Saving a new game.
+2015-04-21 15:33:14,937 INFO  [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 15:33:14,941 ERROR [pool-1-thread-1] stencyl.sw.util.FileHelper: File /Users/Yago/stencylworks/games/Invaders/game.xml is not a valid XML file. Aborting Backup.
+2015-04-21 15:33:17,094 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 15:33:17,097 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/resources/data.xml.bak.
+2015-04-21 15:33:17,098 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 15:33:17,099 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 15:33:17,101 ERROR [pool-1-thread-1] stencyl.sw.util.FileHelper: File /Users/Yago/stencylworks/games/Invaders/snippets/list.xml is not a valid XML file. Aborting Backup.
+2015-04-21 15:33:17,104 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 15:33:17,107 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.FavoriteManager: Favorites file /Users/Yago/stencylworks/games/Invaders/favorites.xml does not exist.
+2015-04-21 15:33:17,112 INFO  [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 15:33:17,148 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl8607057898041607011/sandbox/test/temp
+2015-04-21 15:33:17,150 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /Users/Yago/stencylworks/preview/scripts
+2015-04-21 15:33:17,153 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /Users/Yago/stencylworks/preview/game
+2015-04-21 15:33:17,355 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-04-21 15:33:17,356 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /private/var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl8607057898041607011/sandbox/build/code
+2015-04-21 15:33:17,356 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl8607057898041607011/sandbox/test/temp
+2015-04-21 15:33:17,359 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenGameTask: Took 206ms
+2015-04-21 15:33:17,557 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Actors
+2015-04-21 15:33:17,563 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Doodads
+2015-04-21 15:33:17,570 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Players
+2015-04-21 15:33:17,573 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Regions
+2015-04-21 15:33:17,581 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Tiles
+2015-04-21 15:33:17,990 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.mobile.MobilePage: Found the following simulator versions: [iPhoneSimulator.sdk, iPhoneSimulator8.3.sdk]
+2015-04-21 15:33:18,416 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 0
+2015-04-21 15:33:18,424 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 1
+2015-04-21 15:33:18,428 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 2
+2015-04-21 15:33:18,431 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 3
+2015-04-21 15:33:40,564 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Loading Closed Resource: Ship
+2015-04-21 15:33:43,769 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Ship
+2015-04-21 15:33:43,999 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.OpenResourceTask: Open Took 3435ms
+2015-04-21 15:33:44,032 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenResourceTask: Total Took 3468ms
+2015-04-21 15:34:23,558 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.actor.collision.PreviewPanel: Selected: [X,Y: 0, 0 ]
+2015-04-21 15:35:57,391 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.animation.FrameImportDialog: Import Scale: 1x
+2015-04-21 15:35:57,391 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:35:57,392 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:35:57,392 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:36:44,683 DEBUG [pool-1-thread-2] stencyl.sw.editors.animation.FrameImportDialog: Import Scale: 1x
+2015-04-21 15:36:44,685 DEBUG [pool-1-thread-2] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:36:44,686 DEBUG [pool-1-thread-2] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:36:44,686 DEBUG [pool-1-thread-2] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:36:44,687 DEBUG [pool-1-thread-2] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:36:44,687 DEBUG [pool-1-thread-2] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:36:44,688 DEBUG [pool-1-thread-2] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:36:44,688 DEBUG [pool-1-thread-2] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:36:44,689 DEBUG [pool-1-thread-2] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:36:44,689 DEBUG [pool-1-thread-2] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:36:44,690 DEBUG [pool-1-thread-2] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:36:44,690 DEBUG [pool-1-thread-2] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:36:44,690 DEBUG [pool-1-thread-2] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:36:44,769 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.actor.appearance.AnimationPane: Resetting to default bounding box.
+2015-04-21 15:36:44,770 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.actor.collision.PreviewPanel: Deselect
+2015-04-21 15:36:44,770 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.actor.collision.PreviewPanel: Clear Selection
+2015-04-21 15:36:44,774 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.actor.collision.PreviewPanel: Selected: [X,Y: 0, 0 ]
+2015-04-21 15:39:13,145 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Save Game
+2015-04-21 15:39:13,146 INFO  [pool-1-thread-3] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 15:39:13,152 DEBUG [pool-1-thread-3] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/game.xml.bak.
+2015-04-21 15:39:13,909 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Save Game
+2015-04-21 15:39:13,910 INFO  [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 15:39:13,912 DEBUG [pool-1-thread-4] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/game.xml.bak.
+2015-04-21 15:39:14,321 DEBUG [pool-1-thread-3] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 15:39:14,323 DEBUG [pool-1-thread-3] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/resources/data.xml.bak.
+2015-04-21 15:39:14,327 DEBUG [pool-1-thread-3] stencyl.sw.editors.actor.appearance.AppearancePage: Using size of default animation: 36, 54
+2015-04-21 15:39:14,440 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:39:14,442 DEBUG [pool-1-thread-3] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 15:39:14,443 DEBUG [pool-1-thread-3] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 15:39:14,445 DEBUG [pool-1-thread-3] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/snippets/list.xml.bak.
+2015-04-21 15:39:14,449 DEBUG [pool-1-thread-3] stencyl.sw.app.doc.StencylDoc: Marking as written to disk: Ship
+2015-04-21 15:39:14,450 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_0
+2015-04-21 15:39:14,451 DEBUG [pool-1-thread-3] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/ActorEvents_0.hx
+2015-04-21 15:39:14,451 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/ActorEvents_0.design
+2015-04-21 15:39:14,452 DEBUG [pool-1-thread-3] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 15:39:14,454 INFO  [pool-1-thread-3] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 15:39:15,049 DEBUG [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 15:39:15,051 DEBUG [pool-1-thread-4] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/resources/data.xml.bak.
+2015-04-21 15:39:15,057 DEBUG [pool-1-thread-4] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:39:15,059 DEBUG [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 15:39:15,060 DEBUG [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 15:39:15,063 DEBUG [pool-1-thread-4] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/snippets/list.xml.bak.
+2015-04-21 15:39:15,068 DEBUG [pool-1-thread-4] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_0
+2015-04-21 15:39:15,069 DEBUG [pool-1-thread-4] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/ActorEvents_0.hx
+2015-04-21 15:39:15,069 DEBUG [pool-1-thread-4] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/ActorEvents_0.design
+2015-04-21 15:39:15,069 DEBUG [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 15:39:15,072 INFO  [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 15:40:13,046 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Settings
+2015-04-21 15:40:46,573 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Enemies
+2015-04-21 15:40:46,581 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Create New
+2015-04-21 15:40:46,581 ERROR [AWT-EventQueue-0] stencyl.sw.app.App: Unknown action: menu.gameedit: "Create New"
+2015-04-21 15:41:03,375 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Bullets
+2015-04-21 15:41:03,383 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Create New
+2015-04-21 15:41:03,383 ERROR [AWT-EventQueue-0] stencyl.sw.app.App: Unknown action: menu.gameedit: "Create New"
+2015-04-21 15:42:18,529 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 0
+2015-04-21 15:42:18,530 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Ship' to atlas 0
+2015-04-21 15:42:31,867 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-04-21 15:42:49,295 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Loading Closed Resource: Enemy Ship
+2015-04-21 15:42:50,908 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Enemy Ship
+2015-04-21 15:42:51,143 DEBUG [pool-1-thread-5] stencyl.sw.app.tasks.OpenResourceTask: Open Took 1848ms
+2015-04-21 15:42:51,178 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenResourceTask: Total Took 1883ms
+2015-04-21 15:42:52,055 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.actor.collision.PreviewPanel: Selected: [X,Y: 0, 0 ]
+2015-04-21 15:43:13,698 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.animation.FrameImportDialog: Import Scale: 1x
+2015-04-21 15:43:13,699 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:43:13,699 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:43:13,700 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:43:15,653 DEBUG [pool-1-thread-5] stencyl.sw.editors.animation.FrameImportDialog: Import Scale: 1x
+2015-04-21 15:43:15,654 DEBUG [pool-1-thread-5] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:43:15,655 DEBUG [pool-1-thread-5] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:43:15,656 DEBUG [pool-1-thread-5] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:43:15,740 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.actor.appearance.AnimationPane: Resetting to default bounding box.
+2015-04-21 15:43:15,740 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.actor.collision.PreviewPanel: Deselect
+2015-04-21 15:43:15,741 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.actor.collision.PreviewPanel: Clear Selection
+2015-04-21 15:43:15,746 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.actor.collision.PreviewPanel: Selected: [X,Y: 0, 0 ]
+2015-04-21 15:43:30,907 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Save Game
+2015-04-21 15:43:30,908 INFO  [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 15:43:30,912 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/game.xml.bak.
+2015-04-21 15:43:32,692 DEBUG [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 15:43:32,695 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/resources/data.xml.bak.
+2015-04-21 15:43:32,698 DEBUG [pool-1-thread-5] stencyl.sw.editors.actor.appearance.AppearancePage: Using size of default animation: 64, 64
+2015-04-21 15:43:32,906 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:43:32,949 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:43:32,951 DEBUG [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 15:43:32,951 DEBUG [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 15:43:32,953 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/snippets/list.xml.bak.
+2015-04-21 15:43:32,961 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_0
+2015-04-21 15:43:32,962 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/ActorEvents_0.hx
+2015-04-21 15:43:32,964 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/ActorEvents_0.design
+2015-04-21 15:43:32,965 DEBUG [pool-1-thread-5] stencyl.sw.app.doc.StencylDoc: Marking as written to disk: Enemy Ship
+2015-04-21 15:43:32,965 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_2
+2015-04-21 15:43:32,966 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/ActorEvents_2.hx
+2015-04-21 15:43:32,967 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/ActorEvents_2.design
+2015-04-21 15:43:32,968 DEBUG [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 15:43:32,971 INFO  [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 15:45:58,622 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Save Game
+2015-04-21 15:45:58,623 INFO  [pool-1-thread-6] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 15:45:58,627 DEBUG [pool-1-thread-6] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/game.xml.bak.
+2015-04-21 15:45:59,929 DEBUG [pool-1-thread-6] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 15:45:59,931 DEBUG [pool-1-thread-6] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/resources/data.xml.bak.
+2015-04-21 15:45:59,976 DEBUG [pool-1-thread-6] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:46:00,008 DEBUG [pool-1-thread-6] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:46:00,009 DEBUG [pool-1-thread-6] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 15:46:00,011 DEBUG [pool-1-thread-6] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 15:46:00,012 DEBUG [pool-1-thread-6] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/snippets/list.xml.bak.
+2015-04-21 15:46:00,020 DEBUG [pool-1-thread-6] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_0
+2015-04-21 15:46:00,021 DEBUG [pool-1-thread-6] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/ActorEvents_0.hx
+2015-04-21 15:46:00,023 DEBUG [pool-1-thread-6] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/ActorEvents_0.design
+2015-04-21 15:46:00,024 DEBUG [pool-1-thread-6] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_2
+2015-04-21 15:46:00,025 DEBUG [pool-1-thread-6] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/ActorEvents_2.hx
+2015-04-21 15:46:00,025 DEBUG [pool-1-thread-6] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/ActorEvents_2.design
+2015-04-21 15:46:00,027 DEBUG [pool-1-thread-6] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 15:46:00,031 INFO  [pool-1-thread-6] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 15:46:00,640 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-04-21 15:46:06,408 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Loading Closed Resource: Bullet
+2015-04-21 15:46:07,763 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Bullet
+2015-04-21 15:46:07,993 DEBUG [pool-1-thread-6] stencyl.sw.app.tasks.OpenResourceTask: Open Took 1585ms
+2015-04-21 15:46:08,028 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenResourceTask: Total Took 1620ms
+2015-04-21 15:46:09,045 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.actor.collision.PreviewPanel: Selected: [X,Y: 0, 0 ]
+2015-04-21 15:46:23,293 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.animation.FrameImportDialog: Import Scale: 1x
+2015-04-21 15:46:23,293 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:46:23,294 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:46:23,294 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:46:48,642 DEBUG [pool-1-thread-6] stencyl.sw.editors.animation.FrameImportDialog: Import Scale: 1x
+2015-04-21 15:46:48,655 DEBUG [pool-1-thread-6] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:46:48,655 DEBUG [pool-1-thread-6] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:46:48,656 DEBUG [pool-1-thread-6] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:46:48,663 DEBUG [pool-1-thread-6] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:46:48,664 DEBUG [pool-1-thread-6] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:46:48,664 DEBUG [pool-1-thread-6] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:46:48,671 DEBUG [pool-1-thread-6] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:46:48,671 DEBUG [pool-1-thread-6] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:46:48,672 DEBUG [pool-1-thread-6] stencyl.sw.editors.animation.FrameImportDialog: Resize Method: 2
+2015-04-21 15:46:48,730 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.actor.appearance.AnimationPane: Resetting to default bounding box.
+2015-04-21 15:46:48,730 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.actor.collision.PreviewPanel: Deselect
+2015-04-21 15:46:48,730 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.actor.collision.PreviewPanel: Clear Selection
+2015-04-21 15:46:48,734 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.actor.collision.PreviewPanel: Selected: [X,Y: 0, 0 ]
+2015-04-21 15:47:53,670 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-04-21 15:47:54,477 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Save Game
+2015-04-21 15:47:54,478 INFO  [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 15:47:54,482 DEBUG [pool-1-thread-7] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/game.xml.bak.
+2015-04-21 15:47:55,796 DEBUG [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 15:47:55,798 DEBUG [pool-1-thread-7] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/resources/data.xml.bak.
+2015-04-21 15:47:55,801 DEBUG [pool-1-thread-7] stencyl.sw.editors.actor.appearance.AppearancePage: Using size of default animation: 32, 32
+2015-04-21 15:47:55,932 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:47:56,063 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:47:56,231 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 15:47:56,232 DEBUG [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 15:47:56,234 DEBUG [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 15:47:56,237 DEBUG [pool-1-thread-7] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/snippets/list.xml.bak.
+2015-04-21 15:47:56,252 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_0
+2015-04-21 15:47:56,253 DEBUG [pool-1-thread-7] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/ActorEvents_0.hx
+2015-04-21 15:47:56,396 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/ActorEvents_0.design
+2015-04-21 15:47:56,404 DEBUG [pool-1-thread-7] stencyl.sw.app.doc.StencylDoc: Marking as written to disk: Bullet
+2015-04-21 15:47:56,404 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_4
+2015-04-21 15:47:56,405 DEBUG [pool-1-thread-7] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/ActorEvents_4.hx
+2015-04-21 15:47:56,405 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/ActorEvents_4.design
+2015-04-21 15:47:56,406 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_2
+2015-04-21 15:47:56,407 DEBUG [pool-1-thread-7] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/ActorEvents_2.hx
+2015-04-21 15:47:56,407 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/ActorEvents_2.design
+2015-04-21 15:47:56,409 DEBUG [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 15:47:56,412 INFO  [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Done writing game.
