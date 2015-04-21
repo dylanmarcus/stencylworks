@@ -70,7 +70,7 @@ class MyAssets implements AssetLoader
 		com.stencyl.Data.instance.updatePreloader(15 + Std.int(increment * i)); i++;
 		resourceMap.set("5-0.png", Assets.getBitmapData("assets/graphics/" + Engine.IMG_BASE + "/sprite-5-0.png", false));
 		com.stencyl.Data.instance.updatePreloader(15 + Std.int(increment * i)); i++;
-		resourceMap.set("6-0.png", Assets.getBitmapData("assets/graphics/" + Engine.IMG_BASE + "/background-6-0.png", false));
+		resourceMap.set("9-0.png", Assets.getBitmapData("assets/graphics/" + Engine.IMG_BASE + "/background-9-0.png", false));
 		com.stencyl.Data.instance.updatePreloader(15 + Std.int(increment * i)); i++;
 	}
 	

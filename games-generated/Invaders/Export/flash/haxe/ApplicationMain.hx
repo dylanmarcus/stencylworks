@@ -27,7 +27,7 @@ class ApplicationMain {
 		var types = [];
 		
 		
-		urls.push ("assets/graphics/1.5x/background-6-0.png");
+		urls.push ("assets/graphics/1.5x/background-9-0.png");
 		types.push (AssetType.IMAGE);
 		
 		
@@ -43,7 +43,7 @@ class ApplicationMain {
 		types.push (AssetType.IMAGE);
 		
 		
-		urls.push ("assets/graphics/1x/background-6-0.png");
+		urls.push ("assets/graphics/1x/background-9-0.png");
 		types.push (AssetType.IMAGE);
 		
 		
@@ -59,7 +59,7 @@ class ApplicationMain {
 		types.push (AssetType.IMAGE);
 		
 		
-		urls.push ("assets/graphics/2x/background-6-0.png");
+		urls.push ("assets/graphics/2x/background-9-0.png");
 		types.push (AssetType.IMAGE);
 		
 		
@@ -75,7 +75,7 @@ class ApplicationMain {
 		types.push (AssetType.IMAGE);
 		
 		
-		urls.push ("assets/graphics/4x/background-6-0.png");
+		urls.push ("assets/graphics/4x/background-9-0.png");
 		types.push (AssetType.IMAGE);
 		
 		

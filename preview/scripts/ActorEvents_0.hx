@@ -71,16 +71,43 @@ import com.stencyl.graphics.shaders.BloomShader;
 class ActorEvents_0 extends ActorScript
 {          	
 	
+public var _ShipSpeed:Float;
+
  
  	public function new(dummy:Int, actor:Actor, dummy2:Engine)
 	{
 		super(actor);
-		
+		nameMap.set("Ship Speed", "_ShipSpeed");
+_ShipSpeed = 20;
+
 	}
 	
 	override public function init()
 	{
-		
+		    
+/* ======================== When Updating ========================= */
+addWhenUpdatedListener(null, function(elapsedTime:Float, list:Array<Dynamic>):Void
+{
+if(wrapper.enabled)
+{
+        if(isKeyDown("right"))
+{
+            actor.setXVelocity(_ShipSpeed);
+}
+
+        else if(isKeyDown("left"))
+{
+            actor.setXVelocity(-(_ShipSpeed));
+}
+
+        else if((!(isKeyDown("right")) && !(isKeyDown("left"))))
+{
+            actor.setXVelocity(0);
+}
+
+}
+});
+
 	}	      	
 	
 	override public function forwardMessage(msg:String)
