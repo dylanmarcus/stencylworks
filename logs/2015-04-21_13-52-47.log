@@ -1,0 +1,700 @@
+2015-04-21 13:52:47,241 INFO  [main] stencyl.sw.Session: Logfile: /Users/Yago/stencylworks/logs/2015-04-21_13-52-47.log
+2015-04-21 13:52:47,250 INFO  [main] stencyl.sw.Session: OS Name: Mac OS X
+2015-04-21 13:52:47,250 INFO  [main] stencyl.sw.Session: OS Version: 10.10.2
+2015-04-21 13:52:47,251 INFO  [main] stencyl.sw.Session: Java Version: 1.6.0_65
+2015-04-21 13:52:47,251 INFO  [main] stencyl.sw.Session: Stencyl Version: 3.3.0 (b8281)
+2015-04-21 13:52:47,252 INFO  [main] stencyl.sw.Session: Stencyl Workspace: /Users/Yago/
+2015-04-21 13:52:47,252 INFO  [main] stencyl.sw.Session: Current Working Directory: /Applications/Stencyl-full
+2015-04-21 13:52:47,281 DEBUG [main] stencyl.sw.util.FileHelper: Deleting: /var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl4049606060048370472
+2015-04-21 13:52:47,282 INFO  [AWT-EventQueue-0] stencyl.sw.SW: Initializing Stencyl.
+2015-04-21 13:52:47,344 DEBUG [Thread-4] stencyl.sw.util.StreamGobbler: [xcodebuild] Xcode 6.3
+2015-04-21 13:52:47,346 DEBUG [Thread-4] stencyl.sw.util.StreamGobbler: [xcodebuild] Build version 6D570
+2015-04-21 13:52:47,351 INFO  [AWT-EventQueue-0] stencyl.sw.app.filewatcher.ExternalAppLauncher: Xcode found in the /Applications/Xcode.app/Contents/Developer directory (4.3 or newer).
+2015-04-21 13:52:47,351 INFO  [AWT-EventQueue-0] stencyl.sw.app.filewatcher.ExternalAppLauncher: Xcode Version: 6.3
+2015-04-21 13:52:47,352 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtension: Loading engine extensions...
+2015-04-21 13:52:47,353 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Contents of /Users/Yago/stencylworks/engine-extensions: []
+2015-04-21 13:52:47,353 INFO  [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtension: Engine Extensions: []
+2015-04-21 13:52:47,358 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Contents of /Users/Yago/stencylworks/extensions: []
+2015-04-21 13:52:47,929 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Welcome Center
+2015-04-21 13:52:47,933 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Silent Authentication.
+2015-04-21 13:52:48,013 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Response: user:::plans0
+2015-04-21 13:52:48,014 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Deleting: /Users/Yago/stencylworks/prefs/auth.txt
+2015-04-21 13:52:48,019 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Logged in as: RipeTheWorld
+2015-04-21 13:52:48,019 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Usergroup: Registered
+2015-04-21 13:52:48,147 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: 200
+2015-04-21 13:53:40,338 INFO  [AWT-EventQueue-0] stencyl.sw.editors.game.settings.GamePropertiesDialog: Creating a game from a Kit.
+2015-04-21 13:53:40,339 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy directory from: /Users/Yago/stencylworks/games/Crash Course Kit to: /Users/Yago/stencylworks/games/Crash Course Game
+2015-04-21 13:53:40,339 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/favorites.xml to: /Users/Yago/stencylworks/games/Crash Course Game/favorites.xml
+2015-04-21 13:53:40,347 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/game.xml to: /Users/Yago/stencylworks/games/Crash Course Game/game.xml
+2015-04-21 13:53:40,349 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/game.xml.bak to: /Users/Yago/stencylworks/games/Crash Course Game/game.xml.bak
+2015-04-21 13:53:40,349 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/Icon-120.png to: /Users/Yago/stencylworks/games/Crash Course Game/Icon-120.png
+2015-04-21 13:53:40,350 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/Icon-128.png to: /Users/Yago/stencylworks/games/Crash Course Game/Icon-128.png
+2015-04-21 13:53:40,351 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/Icon-152.png to: /Users/Yago/stencylworks/games/Crash Course Game/Icon-152.png
+2015-04-21 13:53:40,352 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/Icon-16.png to: /Users/Yago/stencylworks/games/Crash Course Game/Icon-16.png
+2015-04-21 13:53:40,353 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/Icon-24.png to: /Users/Yago/stencylworks/games/Crash Course Game/Icon-24.png
+2015-04-21 13:53:40,353 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/Icon-256.png to: /Users/Yago/stencylworks/games/Crash Course Game/Icon-256.png
+2015-04-21 13:53:40,354 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/Icon-32.png to: /Users/Yago/stencylworks/games/Crash Course Game/Icon-32.png
+2015-04-21 13:53:40,354 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/Icon-48.png to: /Users/Yago/stencylworks/games/Crash Course Game/Icon-48.png
+2015-04-21 13:53:40,355 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/Icon-512.png to: /Users/Yago/stencylworks/games/Crash Course Game/Icon-512.png
+2015-04-21 13:53:40,356 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/Icon-76.png to: /Users/Yago/stencylworks/games/Crash Course Game/Icon-76.png
+2015-04-21 13:53:40,356 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/Icon-96.png to: /Users/Yago/stencylworks/games/Crash Course Game/Icon-96.png
+2015-04-21 13:53:40,356 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/inner-joystick.png to: /Users/Yago/stencylworks/games/Crash Course Game/inner-joystick.png
+2015-04-21 13:53:40,357 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/inner-joystick@1.5x.png to: /Users/Yago/stencylworks/games/Crash Course Game/inner-joystick@1.5x.png
+2015-04-21 13:53:40,358 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/inner-joystick@2x.png to: /Users/Yago/stencylworks/games/Crash Course Game/inner-joystick@2x.png
+2015-04-21 13:53:40,359 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/inner-joystick@4x.png to: /Users/Yago/stencylworks/games/Crash Course Game/inner-joystick@4x.png
+2015-04-21 13:53:40,360 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/ios-icon-half.png to: /Users/Yago/stencylworks/games/Crash Course Game/ios-icon-half.png
+2015-04-21 13:53:40,361 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/ios-icon.png to: /Users/Yago/stencylworks/games/Crash Course Game/ios-icon.png
+2015-04-21 13:53:40,361 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/ios-splash-half.png to: /Users/Yago/stencylworks/games/Crash Course Game/ios-splash-half.png
+2015-04-21 13:53:40,362 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/ios-splash.png to: /Users/Yago/stencylworks/games/Crash Course Game/ios-splash.png
+2015-04-21 13:53:40,363 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/ios-splash5.png to: /Users/Yago/stencylworks/games/Crash Course Game/ios-splash5.png
+2015-04-21 13:53:40,364 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/ios-splash6.png to: /Users/Yago/stencylworks/games/Crash Course Game/ios-splash6.png
+2015-04-21 13:53:40,364 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/ios-splash6p.png to: /Users/Yago/stencylworks/games/Crash Course Game/ios-splash6p.png
+2015-04-21 13:53:40,366 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/ipad-icon-half.png to: /Users/Yago/stencylworks/games/Crash Course Game/ipad-icon-half.png
+2015-04-21 13:53:40,367 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/ipad-icon.png to: /Users/Yago/stencylworks/games/Crash Course Game/ipad-icon.png
+2015-04-21 13:53:40,367 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/ipad-splash-half.png to: /Users/Yago/stencylworks/games/Crash Course Game/ipad-splash-half.png
+2015-04-21 13:53:40,368 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/ipad-splash.png to: /Users/Yago/stencylworks/games/Crash Course Game/ipad-splash.png
+2015-04-21 13:53:40,369 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/kit.xml to: /Users/Yago/stencylworks/games/Crash Course Game/kit.xml
+2015-04-21 13:53:40,370 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy directory from: /Users/Yago/stencylworks/games/Crash Course Kit/linked to: /Users/Yago/stencylworks/games/Crash Course Game/linked
+2015-04-21 13:53:40,370 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/linked/data.xml to: /Users/Yago/stencylworks/games/Crash Course Game/linked/data.xml
+2015-04-21 13:53:40,371 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/logo.png to: /Users/Yago/stencylworks/games/Crash Course Game/logo.png
+2015-04-21 13:53:40,372 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/master-icon.png to: /Users/Yago/stencylworks/games/Crash Course Game/master-icon.png
+2015-04-21 13:53:40,373 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/outer-joystick.png to: /Users/Yago/stencylworks/games/Crash Course Game/outer-joystick.png
+2015-04-21 13:53:40,373 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/outer-joystick@1.5x.png to: /Users/Yago/stencylworks/games/Crash Course Game/outer-joystick@1.5x.png
+2015-04-21 13:53:40,374 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/outer-joystick@2x.png to: /Users/Yago/stencylworks/games/Crash Course Game/outer-joystick@2x.png
+2015-04-21 13:53:40,375 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/outer-joystick@4x.png to: /Users/Yago/stencylworks/games/Crash Course Game/outer-joystick@4x.png
+2015-04-21 13:53:40,376 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/preloader.png to: /Users/Yago/stencylworks/games/Crash Course Game/preloader.png
+2015-04-21 13:53:40,376 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy directory from: /Users/Yago/stencylworks/games/Crash Course Kit/resources to: /Users/Yago/stencylworks/games/Crash Course Game/resources
+2015-04-21 13:53:40,377 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-0.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-0.png
+2015-04-21 13:53:40,377 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-0@1.5x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-0@1.5x.png
+2015-04-21 13:53:40,378 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-0@2x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-0@2x.png
+2015-04-21 13:53:40,379 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-0@4x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-0@4x.png
+2015-04-21 13:53:40,379 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-1.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-1.png
+2015-04-21 13:53:40,380 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-10.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-10.png
+2015-04-21 13:53:40,381 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-10@1.5x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-10@1.5x.png
+2015-04-21 13:53:40,382 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-10@2x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-10@2x.png
+2015-04-21 13:53:40,382 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-10@4x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-10@4x.png
+2015-04-21 13:53:40,383 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-1@1.5x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-1@1.5x.png
+2015-04-21 13:53:40,383 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-1@2x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-1@2x.png
+2015-04-21 13:53:40,384 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-1@4x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-1@4x.png
+2015-04-21 13:53:40,385 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-4.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-4.png
+2015-04-21 13:53:40,385 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-4@1.5x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-4@1.5x.png
+2015-04-21 13:53:40,386 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-4@2x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-4@2x.png
+2015-04-21 13:53:40,386 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-4@4x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-4@4x.png
+2015-04-21 13:53:40,387 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-6.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-6.png
+2015-04-21 13:53:40,388 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-6@1.5x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-6@1.5x.png
+2015-04-21 13:53:40,388 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-6@2x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-6@2x.png
+2015-04-21 13:53:40,389 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-6@4x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-6@4x.png
+2015-04-21 13:53:40,390 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-8.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-8.png
+2015-04-21 13:53:40,390 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-8@1.5x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-8@1.5x.png
+2015-04-21 13:53:40,391 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-8@2x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-8@2x.png
+2015-04-21 13:53:40,392 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/1-8@4x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/1-8@4x.png
+2015-04-21 13:53:40,392 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/3-0.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/3-0.png
+2015-04-21 13:53:40,393 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/3-0@1.5x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/3-0@1.5x.png
+2015-04-21 13:53:40,393 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/3-0@2x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/3-0@2x.png
+2015-04-21 13:53:40,394 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/3-0@4x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/3-0@4x.png
+2015-04-21 13:53:40,395 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/3-1.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/3-1.png
+2015-04-21 13:53:40,395 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/3-1@1.5x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/3-1@1.5x.png
+2015-04-21 13:53:40,396 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/3-1@2x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/3-1@2x.png
+2015-04-21 13:53:40,397 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/3-1@4x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/3-1@4x.png
+2015-04-21 13:53:40,398 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/3-2.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/3-2.png
+2015-04-21 13:53:40,398 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/3-2@1.5x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/3-2@1.5x.png
+2015-04-21 13:53:40,399 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/3-2@2x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/3-2@2x.png
+2015-04-21 13:53:40,400 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/3-2@4x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/3-2@4x.png
+2015-04-21 13:53:40,400 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/3-3.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/3-3.png
+2015-04-21 13:53:40,401 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/3-3@1.5x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/3-3@1.5x.png
+2015-04-21 13:53:40,401 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/3-3@2x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/3-3@2x.png
+2015-04-21 13:53:40,402 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/3-3@4x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/3-3@4x.png
+2015-04-21 13:53:40,403 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/4.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/4.png
+2015-04-21 13:53:40,403 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/4@1.5x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/4@1.5x.png
+2015-04-21 13:53:40,404 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/4@2x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/4@2x.png
+2015-04-21 13:53:40,404 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/4@4x.png to: /Users/Yago/stencylworks/games/Crash Course Game/resources/4@4x.png
+2015-04-21 13:53:40,405 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/5.mp3 to: /Users/Yago/stencylworks/games/Crash Course Game/resources/5.mp3
+2015-04-21 13:53:40,406 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/6.mp3 to: /Users/Yago/stencylworks/games/Crash Course Game/resources/6.mp3
+2015-04-21 13:53:40,406 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/data.xml to: /Users/Yago/stencylworks/games/Crash Course Game/resources/data.xml
+2015-04-21 13:53:40,407 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources/data.xml.bak to: /Users/Yago/stencylworks/games/Crash Course Game/resources/data.xml.bak
+2015-04-21 13:53:40,407 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/resources.xml to: /Users/Yago/stencylworks/games/Crash Course Game/resources.xml
+2015-04-21 13:53:40,408 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy directory from: /Users/Yago/stencylworks/games/Crash Course Kit/scenes to: /Users/Yago/stencylworks/games/Crash Course Game/scenes
+2015-04-21 13:53:40,408 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/scenes/scenes.xml to: /Users/Yago/stencylworks/games/Crash Course Game/scenes/scenes.xml
+2015-04-21 13:53:40,409 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy directory from: /Users/Yago/stencylworks/games/Crash Course Kit/snippets to: /Users/Yago/stencylworks/games/Crash Course Game/snippets
+2015-04-21 13:53:40,409 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/snippets/0.png to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/0.png
+2015-04-21 13:53:40,410 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/snippets/1.png to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/1.png
+2015-04-21 13:53:40,410 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/snippets/2.png to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/2.png
+2015-04-21 13:53:40,411 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/snippets/3.png to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/3.png
+2015-04-21 13:53:40,412 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/snippets/4.png to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/4.png
+2015-04-21 13:53:40,412 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/snippets/Design_0_0_StomponEnemies.design to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/Design_0_0_StomponEnemies.design
+2015-04-21 13:53:40,413 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/snippets/Design_1_1_Stompable.design to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/Design_1_1_Stompable.design
+2015-04-21 13:53:40,414 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/snippets/Design_2_2_Walking.design to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/Design_2_2_Walking.design
+2015-04-21 13:53:40,414 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/snippets/Design_3_3_DieinPitandReload.design to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/Design_3_3_DieinPitandReload.design
+2015-04-21 13:53:40,415 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/snippets/Design_4_4_Jumping.design to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/Design_4_4_Jumping.design
+2015-04-21 13:53:40,416 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/snippets/list.xml to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/list.xml
+2015-04-21 13:53:40,416 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/snippets/list.xml.bak to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/list.xml.bak
+2015-04-21 13:53:40,417 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/win8-splash.png to: /Users/Yago/stencylworks/games/Crash Course Game/win8-splash.png
+2015-04-21 13:53:40,417 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Copy File: /Users/Yago/stencylworks/games/Crash Course Kit/win8-tile.png to: /Users/Yago/stencylworks/games/Crash Course Game/win8-tile.png
+2015-04-21 13:53:40,424 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /Users/Yago/stencylworks/games/Crash Course Game/kit.xml
+2015-04-21 13:53:40,460 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl4049606060048370472/sandbox/test/temp
+2015-04-21 13:53:40,461 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /Users/Yago/stencylworks/preview/scripts
+2015-04-21 13:53:40,461 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /Users/Yago/stencylworks/preview/game
+2015-04-21 13:53:40,563 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 4 : Grass Land Tileset
+2015-04-21 13:53:40,610 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 6 : Jump
+2015-04-21 13:53:40,610 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 0 : Mambo
+2015-04-21 13:53:40,612 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 1 : Mambo
+2015-04-21 13:53:40,675 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 2 : Pronger
+2015-04-21 13:53:40,675 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 3 : Pronger
+2015-04-21 13:53:40,707 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 5 : Stomp
+2015-04-21 13:53:40,708 DEBUG [pool-1-thread-1] stencyl.core.engine.sound.ISoundClip: Loading Sound 5
+2015-04-21 13:53:40,708 DEBUG [pool-1-thread-1] stencyl.core.engine.sound.ISoundClip: Loading Sound 6
+2015-04-21 13:53:40,805 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenGameTask: Took 343ms
+2015-04-21 13:53:40,942 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-04-21 13:53:40,943 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /private/var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl4049606060048370472/sandbox/build/code
+2015-04-21 13:53:40,943 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl4049606060048370472/sandbox/test/temp
+2015-04-21 13:53:41,148 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Actors
+2015-04-21 13:53:41,157 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Doodads
+2015-04-21 13:53:41,165 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Players
+2015-04-21 13:53:41,169 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Regions
+2015-04-21 13:53:41,175 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Tiles
+2015-04-21 13:53:41,179 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Enemies
+2015-04-21 13:53:41,583 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.mobile.MobilePage: Found the following simulator versions: [iPhoneSimulator.sdk, iPhoneSimulator8.3.sdk]
+2015-04-21 13:53:41,925 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 0
+2015-04-21 13:53:41,925 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Mambo' to atlas 0
+2015-04-21 13:53:41,925 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Pronger' to atlas 0
+2015-04-21 13:53:41,926 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Grass Land Tileset' to atlas 0
+2015-04-21 13:53:41,926 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Stomp' to atlas 0
+2015-04-21 13:53:41,926 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Jump' to atlas 0
+2015-04-21 13:53:41,932 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 1
+2015-04-21 13:53:41,935 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 2
+2015-04-21 13:53:41,944 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 3
+2015-04-21 13:53:41,947 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 4
+2015-04-21 13:53:41,950 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 5
+2015-04-21 13:53:41,953 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 6
+2015-04-21 13:53:41,957 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 7
+2015-04-21 13:53:41,959 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 8
+2015-04-21 13:53:41,962 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 9
+2015-04-21 13:53:41,965 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 10
+2015-04-21 13:53:41,978 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 11
+2015-04-21 13:53:41,982 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 12
+2015-04-21 13:53:41,985 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 13
+2015-04-21 13:53:41,988 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 14
+2015-04-21 13:53:41,996 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 15
+2015-04-21 13:53:41,999 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 17
+2015-04-21 13:53:42,002 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 16
+2015-04-21 13:53:42,005 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 19
+2015-04-21 13:53:42,007 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 18
+2015-04-21 13:53:42,010 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 21
+2015-04-21 13:53:42,012 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 20
+2015-04-21 13:53:42,015 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 23
+2015-04-21 13:53:42,022 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 22
+2015-04-21 13:53:42,024 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 25
+2015-04-21 13:53:42,027 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 24
+2015-04-21 13:53:42,030 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 27
+2015-04-21 13:53:42,033 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 26
+2015-04-21 13:53:42,037 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 29
+2015-04-21 13:53:42,040 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 28
+2015-04-21 13:53:42,043 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 31
+2015-04-21 13:53:42,046 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 30
+2015-04-21 13:54:52,974 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Loading Closed Resource: Mambo
+2015-04-21 13:54:53,282 DEBUG [pool-1-thread-2] stencyl.sw.editors.actor.collision.PreviewPanel: Selected: 1 [X,Y: 5, 4 ]
+2015-04-21 13:54:53,318 DEBUG [pool-1-thread-2] stencyl.sw.editors.actor.collision.PreviewPanel: Selected: 1 [X,Y: 8, 4 ]
+2015-04-21 13:54:53,374 DEBUG [pool-1-thread-2] stencyl.sw.editors.actor.collision.PreviewPanel: Selected: 1 [X,Y: 5, 4 ]
+2015-04-21 13:54:53,416 DEBUG [pool-1-thread-2] stencyl.sw.editors.actor.collision.PreviewPanel: Selected: 1 [X,Y: 8, 4 ]
+2015-04-21 13:54:53,462 DEBUG [pool-1-thread-2] stencyl.sw.editors.actor.collision.PreviewPanel: Selected: 1 [X,Y: 5, 4 ]
+2015-04-21 13:54:53,495 DEBUG [pool-1-thread-2] stencyl.sw.editors.actor.collision.PreviewPanel: Selected: 1 [X,Y: 8, 4 ]
+2015-04-21 13:54:55,867 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Mambo
+2015-04-21 13:54:55,889 DEBUG [pool-1-thread-2] stencyl.sw.app.tasks.OpenResourceTask: Open Took 2914ms
+2015-04-21 13:54:56,112 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenResourceTask: Total Took 3137ms
+2015-04-21 13:56:00,967 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-04-21 13:57:09,123 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Open Resource...
+2015-04-21 13:57:13,778 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Open Resource...
+2015-04-21 13:57:20,429 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Loading Closed Resource: Pronger
+2015-04-21 13:57:20,753 DEBUG [pool-1-thread-3] stencyl.sw.editors.actor.collision.PreviewPanel: Selected: 1 [X,Y: 0, 0 ]
+2015-04-21 13:57:20,778 DEBUG [pool-1-thread-3] stencyl.sw.editors.actor.collision.PreviewPanel: Selected: 1 [X,Y: 0, 0 ]
+2015-04-21 13:57:20,807 DEBUG [pool-1-thread-3] stencyl.sw.editors.actor.collision.PreviewPanel: Selected: 1 [X,Y: 0, 0 ]
+2015-04-21 13:57:20,826 DEBUG [pool-1-thread-3] stencyl.sw.editors.actor.collision.PreviewPanel: Selected: 1 [X,Y: 0, 0 ]
+2015-04-21 13:57:22,081 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Pronger
+2015-04-21 13:57:22,086 DEBUG [pool-1-thread-3] stencyl.sw.app.tasks.OpenResourceTask: Open Took 1657ms
+2015-04-21 13:57:22,293 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenResourceTask: Total Took 1864ms
+2015-04-21 13:57:25,523 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Open Resource...
+2015-04-21 13:57:26,736 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Mambo
+2015-04-21 13:58:08,332 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Open Resource...
+2015-04-21 13:58:16,428 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-04-21 13:58:32,581 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Loading Closed Resource: Grass Land Tileset
+2015-04-21 13:58:32,780 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Unable to refresh document.
+If you're opening up a code mode snippet, ignore this message unless you think something is wrong.
+If you just closed a document, ignore this message.
+2015-04-21 13:58:32,855 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Grass Land Tileset
+2015-04-21 13:58:32,860 DEBUG [pool-1-thread-4] stencyl.sw.app.tasks.OpenResourceTask: Open Took 278ms
+2015-04-21 13:58:33,004 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenResourceTask: Total Took 422ms
+2015-04-21 13:59:19,297 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Open Resource...
+2015-04-21 13:59:24,544 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-04-21 13:59:35,156 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Loading Closed Resource: Jump
+2015-04-21 13:59:35,186 DEBUG [pool-1-thread-5] stencyl.sw.editors.sound.SoundInfoPanel: Could not load sound info. (Ignore for new sounds or OGG sounds)
+2015-04-21 13:59:35,191 DEBUG [pool-1-thread-5] stencyl.sw.editors.sound.SoundPlaybackPanel: Stop sound: false
+2015-04-21 13:59:35,562 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Jump
+2015-04-21 13:59:35,567 DEBUG [pool-1-thread-5] stencyl.sw.app.tasks.OpenResourceTask: Open Took 411ms
+2015-04-21 13:59:35,682 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenResourceTask: Total Took 526ms
+2015-04-21 13:59:39,496 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.sound.SoundPlaybackPanel: Playing sound.
+2015-04-21 13:59:40,500 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.sound.SoundPlaybackPanel: Stop sound: false
+2015-04-21 13:59:40,501 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.sound.SoundPlaybackPanel: Playing sound.
+2015-04-21 13:59:43,744 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.sound.SoundPlaybackPanel: Stop sound: false
+2015-04-21 13:59:43,746 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.sound.SoundPlaybackPanel: Playing sound.
+2015-04-21 13:59:44,367 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.sound.SoundPlaybackPanel: Stop sound: false
+2015-04-21 13:59:44,368 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.sound.SoundPlaybackPanel: Playing sound.
+2015-04-21 13:59:44,551 DEBUG [SoundImportPanel-Pause] stencyl.sw.editors.sound.SoundPlaybackPanel: Last Frame Decoded: 7
+2015-04-21 13:59:45,313 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.sound.SoundPlaybackPanel: Stop sound: false
+2015-04-21 13:59:45,314 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.sound.SoundPlaybackPanel: Playing sound.
+2015-04-21 14:00:05,411 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-04-21 14:00:16,843 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Loading Closed Resource: Die in Pit and Reload
+2015-04-21 14:00:16,884 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... init
+2015-04-21 14:00:16,884 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: init - false
+2015-04-21 14:00:16,884 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... step
+2015-04-21 14:00:16,884 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: scene-reload-new - true
+2015-04-21 14:00:16,884 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: scene-reload-new - true
+2015-04-21 14:00:16,884 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: if - false
+2015-04-21 14:00:16,884 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: if - false
+2015-04-21 14:00:16,884 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: if - false
+2015-04-21 14:00:16,885 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: step - false
+2015-04-21 14:00:16,885 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... collide
+2015-04-21 14:00:16,885 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: collide - false
+2015-04-21 14:00:16,885 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... draw
+2015-04-21 14:00:16,885 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: draw - false
+2015-04-21 14:00:18,228 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:18,229 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:18,229 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:18,251 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... step
+2015-04-21 14:00:18,251 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: scene-reload-new - true
+2015-04-21 14:00:18,251 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: scene-reload-new - true
+2015-04-21 14:00:18,251 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: if - false
+2015-04-21 14:00:18,251 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: if - false
+2015-04-21 14:00:18,251 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: if - false
+2015-04-21 14:00:18,252 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: step - false
+2015-04-21 14:00:18,644 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Die in Pit and Reload
+2015-04-21 14:00:18,648 DEBUG [pool-1-thread-5] stencyl.sw.app.tasks.OpenResourceTask: Open Took 1804ms
+2015-04-21 14:00:18,883 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenResourceTask: Total Took 2039ms
+2015-04-21 14:00:36,238 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:36,239 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:36,239 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:36,268 INFO  [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 14:00:36,274 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Crash Course Game/game.xml.bak.
+2015-04-21 14:00:37,580 DEBUG [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 14:00:37,584 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Crash Course Game/resources/data.xml.bak.
+2015-04-21 14:00:37,611 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.TilesetWriter: Mark tileset as clean (disk).
+2015-04-21 14:00:37,616 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SoundWriter: Mark background as clean (disk).
+2015-04-21 14:00:37,628 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 14:00:37,637 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 14:00:37,645 DEBUG [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 14:00:37,646 DEBUG [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 14:00:37,648 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Crash Course Game/snippets/list.xml.bak.
+2015-04-21 14:00:37,650 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:37,650 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:37,650 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:37,687 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_2
+2015-04-21 14:00:37,689 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Crash Course Game/behavior-hx/ActorEvents_2.hx
+2015-04-21 14:00:37,689 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/ActorEvents_2.design
+2015-04-21 14:00:37,690 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: Die in Pit and Reload
+2015-04-21 14:00:37,691 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:37,691 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:37,691 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:37,693 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Crash Course Game/behavior-hx/Design_3_3_DieinPitandReload.hx
+2015-04-21 14:00:37,694 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/Design_3_3_DieinPitandReload.design
+2015-04-21 14:00:37,694 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_0
+2015-04-21 14:00:37,696 DEBUG [pool-1-thread-5] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Crash Course Game/behavior-hx/ActorEvents_0.hx
+2015-04-21 14:00:37,696 DEBUG [pool-1-thread-5] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/ActorEvents_0.design
+2015-04-21 14:00:37,700 DEBUG [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 14:00:37,703 INFO  [pool-1-thread-5] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 14:00:37,754 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Jump
+2015-04-21 14:00:37,756 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Closed Document: Die in Pit and Reload3
+2015-04-21 14:00:39,337 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-04-21 14:00:45,388 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Open Resource...
+2015-04-21 14:00:46,334 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Loading Closed Resource: Walking
+2015-04-21 14:00:46,652 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... init
+2015-04-21 14:00:46,652 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: actor-set-prop - true
+2015-04-21 14:00:46,653 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: init - false
+2015-04-21 14:00:46,653 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... step
+2015-04-21 14:00:46,653 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: comment-short - true
+2015-04-21 14:00:46,653 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: actor-set-prop - true
+2015-04-21 14:00:46,653 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: actor-get-prop - true
+2015-04-21 14:00:46,653 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: if - false
+2015-04-21 14:00:46,653 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: if - false
+2015-04-21 14:00:46,653 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: comment-short - true
+2015-04-21 14:00:46,653 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: actor-set-prop - true
+2015-04-21 14:00:46,653 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: actor-get-prop - true
+2015-04-21 14:00:46,653 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: if - false
+2015-04-21 14:00:46,653 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: else-if - false
+2015-04-21 14:00:46,653 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: comment-short - true
+2015-04-21 14:00:46,653 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: set-dxy - true
+2015-04-21 14:00:46,654 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: actor-get-prop - true
+2015-04-21 14:00:46,654 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: if - false
+2015-04-21 14:00:46,654 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: else - false
+2015-04-21 14:00:46,654 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: actor-get-prop - true
+2015-04-21 14:00:46,654 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: if - false
+2015-04-21 14:00:46,654 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: else - false
+2015-04-21 14:00:46,654 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: step - false
+2015-04-21 14:00:46,654 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... collide
+2015-04-21 14:00:46,654 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: collide - false
+2015-04-21 14:00:46,654 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... draw
+2015-04-21 14:00:46,654 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: draw - false
+2015-04-21 14:00:47,812 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,812 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,812 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,812 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,813 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,813 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,813 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,813 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,813 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,814 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,814 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,814 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,814 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,814 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,815 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,874 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... step
+2015-04-21 14:00:47,874 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: comment-short - true
+2015-04-21 14:00:47,875 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: actor-set-prop - true
+2015-04-21 14:00:47,875 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: actor-get-prop - true
+2015-04-21 14:00:47,875 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: if - false
+2015-04-21 14:00:47,875 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: if - false
+2015-04-21 14:00:47,875 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: comment-short - true
+2015-04-21 14:00:47,875 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: actor-set-prop - true
+2015-04-21 14:00:47,876 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: actor-get-prop - true
+2015-04-21 14:00:47,876 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: if - false
+2015-04-21 14:00:47,876 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: else-if - false
+2015-04-21 14:00:47,876 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: comment-short - true
+2015-04-21 14:00:47,876 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: set-dxy - true
+2015-04-21 14:00:47,876 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: actor-get-prop - true
+2015-04-21 14:00:47,876 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: if - false
+2015-04-21 14:00:47,876 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: else - false
+2015-04-21 14:00:47,876 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: actor-get-prop - true
+2015-04-21 14:00:47,876 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: if - false
+2015-04-21 14:00:47,876 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: else - false
+2015-04-21 14:00:47,876 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: step - false
+2015-04-21 14:00:47,878 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,878 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,878 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,878 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,879 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,879 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,879 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,879 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,879 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,880 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,880 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,880 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,880 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,880 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,881 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:00:47,892 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... init
+2015-04-21 14:00:47,892 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: actor-set-prop - true
+2015-04-21 14:00:47,892 DEBUG [pool-1-thread-5] stencyl.sw.editors.snippet.designer.BlockField: Result for: init - false
+2015-04-21 14:00:48,220 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Walking
+2015-04-21 14:00:48,221 DEBUG [pool-1-thread-5] stencyl.sw.app.tasks.OpenResourceTask: Open Took 1887ms
+2015-04-21 14:00:48,549 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenResourceTask: Total Took 2215ms
+2015-04-21 14:01:12,361 INFO  [AWT-EventQueue-0] stencyl.sw.app.App: Attempting to quit out of Stencyl.
+2015-04-21 14:02:42,276 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Save Game
+2015-04-21 14:02:42,276 INFO  [pool-1-thread-6] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 14:02:42,279 DEBUG [pool-1-thread-6] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Crash Course Game/game.xml.bak.
+2015-04-21 14:02:43,266 DEBUG [pool-1-thread-6] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 14:02:43,269 DEBUG [pool-1-thread-6] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Crash Course Game/resources/data.xml.bak.
+2015-04-21 14:02:43,278 DEBUG [pool-1-thread-6] stencyl.sw.io.write.resource.TilesetWriter: Mark tileset as clean (disk).
+2015-04-21 14:02:43,283 DEBUG [pool-1-thread-6] stencyl.sw.io.write.resource.SoundWriter: Mark background as clean (disk).
+2015-04-21 14:02:43,291 DEBUG [pool-1-thread-6] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 14:02:43,299 DEBUG [pool-1-thread-6] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 14:02:43,304 DEBUG [pool-1-thread-6] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 14:02:43,305 DEBUG [pool-1-thread-6] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 14:02:43,307 DEBUG [pool-1-thread-6] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Crash Course Game/snippets/list.xml.bak.
+2015-04-21 14:02:43,309 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,309 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,310 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,310 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,311 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,311 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,311 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,312 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,312 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,313 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,313 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,313 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,313 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,314 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,314 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,448 DEBUG [pool-1-thread-6] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_2
+2015-04-21 14:02:43,450 DEBUG [pool-1-thread-6] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Crash Course Game/behavior-hx/ActorEvents_2.hx
+2015-04-21 14:02:43,463 DEBUG [pool-1-thread-6] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/ActorEvents_2.design
+2015-04-21 14:02:43,464 DEBUG [pool-1-thread-6] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: Walking
+2015-04-21 14:02:43,464 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,465 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,465 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,465 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,466 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,466 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,466 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,466 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,467 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,467 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,467 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,467 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,468 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,468 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,468 DEBUG [pool-1-thread-6] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:02:43,470 DEBUG [pool-1-thread-6] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Crash Course Game/behavior-hx/Design_2_2_Walking.hx
+2015-04-21 14:02:43,470 DEBUG [pool-1-thread-6] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/Design_2_2_Walking.design
+2015-04-21 14:02:43,471 DEBUG [pool-1-thread-6] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_0
+2015-04-21 14:02:43,472 DEBUG [pool-1-thread-6] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Crash Course Game/behavior-hx/ActorEvents_0.hx
+2015-04-21 14:02:43,472 DEBUG [pool-1-thread-6] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/ActorEvents_0.design
+2015-04-21 14:02:43,475 DEBUG [pool-1-thread-6] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 14:02:43,480 INFO  [pool-1-thread-6] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 14:02:59,098 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Open Resource...
+2015-04-21 14:02:59,894 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Mambo
+2015-04-21 14:05:48,237 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.behavior.SnippetList: Adding Walking to actor/scene.
+2015-04-21 14:05:48,258 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.behavior.SnippetSheet: Field Count: 7
+2015-04-21 14:08:41,017 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.behavior.SnippetList: Adding Jumping to actor/scene.
+2015-04-21 14:08:41,025 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.behavior.SnippetSheet: Field Count: 5
+2015-04-21 14:09:06,657 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.behavior.SnippetList: Adding Stomp on Enemies to actor/scene.
+2015-04-21 14:09:06,663 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.behavior.SnippetSheet: Field Count: 2
+2015-04-21 14:09:23,798 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.behavior.SnippetList: Adding Die in Pit and Reload to actor/scene.
+2015-04-21 14:09:23,801 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.behavior.SnippetSheet: Field Count: 0
+2015-04-21 14:09:33,102 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Pronger
+2015-04-21 14:09:35,332 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Save Game
+2015-04-21 14:09:35,333 INFO  [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 14:09:35,338 DEBUG [pool-1-thread-7] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Crash Course Game/game.xml.bak.
+2015-04-21 14:09:36,370 DEBUG [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 14:09:36,372 DEBUG [pool-1-thread-7] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Crash Course Game/resources/data.xml.bak.
+2015-04-21 14:09:36,382 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.TilesetWriter: Mark tileset as clean (disk).
+2015-04-21 14:09:36,387 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SoundWriter: Mark background as clean (disk).
+2015-04-21 14:09:36,389 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Saving Snippet: Die in Pit and Reload
+2015-04-21 14:09:36,390 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: thisactor
+2015-04-21 14:09:36,390 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Saving Snippet: Walking
+2015-04-21 14:09:36,390 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Value: right
+2015-04-21 14:09:36,390 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: right
+2015-04-21 14:09:36,390 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Value: left
+2015-04-21 14:09:36,391 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: left
+2015-04-21 14:09:36,391 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: 15
+2015-04-21 14:09:36,391 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Walk (R)
+2015-04-21 14:09:36,391 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Walk (L)
+2015-04-21 14:09:36,391 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Idle (R)
+2015-04-21 14:09:36,391 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Idle (L)
+2015-04-21 14:09:36,392 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: thisactor
+2015-04-21 14:09:36,392 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Saving Snippet: Stomp on Enemies
+2015-04-21 14:09:36,392 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Value: Enemies
+2015-04-21 14:09:36,392 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: 4
+2015-04-21 14:09:36,392 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Value: Jump
+2015-04-21 14:09:36,392 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Jump
+2015-04-21 14:09:36,392 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: thisactor
+2015-04-21 14:09:36,392 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Saving Snippet: Jumping
+2015-04-21 14:09:36,392 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Value: Jump
+2015-04-21 14:09:36,392 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Jump
+2015-04-21 14:09:36,392 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: 25
+2015-04-21 14:09:36,392 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Value: Jump
+2015-04-21 14:09:36,393 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: 6
+2015-04-21 14:09:36,393 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Jump (R)
+2015-04-21 14:09:36,393 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Jump (L)
+2015-04-21 14:09:36,393 DEBUG [pool-1-thread-7] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: thisactor
+2015-04-21 14:09:36,471 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 14:09:36,540 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 14:09:36,544 DEBUG [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 14:09:36,545 DEBUG [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 14:09:36,548 DEBUG [pool-1-thread-7] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Crash Course Game/snippets/list.xml.bak.
+2015-04-21 14:09:36,554 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,554 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,554 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,555 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,555 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,555 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,555 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,555 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,556 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,556 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,556 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,556 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,557 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,557 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,557 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,585 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Mambo
+2015-04-21 14:09:36,693 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_2
+2015-04-21 14:09:36,696 DEBUG [pool-1-thread-7] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Crash Course Game/behavior-hx/ActorEvents_2.hx
+2015-04-21 14:09:36,796 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/ActorEvents_2.design
+2015-04-21 14:09:36,797 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: Walking
+2015-04-21 14:09:36,797 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,797 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,798 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,798 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,798 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,798 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,798 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,799 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,799 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,799 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,799 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,799 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,799 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,800 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,800 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:09:36,801 DEBUG [pool-1-thread-7] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Crash Course Game/behavior-hx/Design_2_2_Walking.hx
+2015-04-21 14:09:36,802 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/Design_2_2_Walking.design
+2015-04-21 14:09:36,802 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_0
+2015-04-21 14:09:36,803 DEBUG [pool-1-thread-7] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Crash Course Game/behavior-hx/ActorEvents_0.hx
+2015-04-21 14:09:36,803 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/ActorEvents_0.design
+2015-04-21 14:09:36,806 DEBUG [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 14:09:36,812 INFO  [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 14:09:38,034 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Pronger
+2015-04-21 14:11:31,218 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Save Game
+2015-04-21 14:11:31,219 INFO  [pool-1-thread-8] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 14:11:31,222 DEBUG [pool-1-thread-8] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Crash Course Game/game.xml.bak.
+2015-04-21 14:11:32,266 DEBUG [pool-1-thread-8] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 14:11:32,268 DEBUG [pool-1-thread-8] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Crash Course Game/resources/data.xml.bak.
+2015-04-21 14:11:32,276 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.TilesetWriter: Mark tileset as clean (disk).
+2015-04-21 14:11:32,282 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SoundWriter: Mark background as clean (disk).
+2015-04-21 14:11:32,284 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Saving Snippet: Die in Pit and Reload
+2015-04-21 14:11:32,284 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: thisactor
+2015-04-21 14:11:32,284 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Saving Snippet: Walking
+2015-04-21 14:11:32,284 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Value: right
+2015-04-21 14:11:32,284 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: right
+2015-04-21 14:11:32,284 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Value: left
+2015-04-21 14:11:32,284 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: left
+2015-04-21 14:11:32,284 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: 15
+2015-04-21 14:11:32,284 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Walk (R)
+2015-04-21 14:11:32,285 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Walk (L)
+2015-04-21 14:11:32,285 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Idle (R)
+2015-04-21 14:11:32,285 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Idle (L)
+2015-04-21 14:11:32,285 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: thisactor
+2015-04-21 14:11:32,285 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Saving Snippet: Stomp on Enemies
+2015-04-21 14:11:32,285 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Value: Enemies
+2015-04-21 14:11:32,285 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: 4
+2015-04-21 14:11:32,285 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Value: Jump
+2015-04-21 14:11:32,285 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Jump
+2015-04-21 14:11:32,285 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: thisactor
+2015-04-21 14:11:32,285 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Saving Snippet: Jumping
+2015-04-21 14:11:32,285 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Value: Jump
+2015-04-21 14:11:32,286 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Jump
+2015-04-21 14:11:32,286 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: 25
+2015-04-21 14:11:32,286 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Value: Jump
+2015-04-21 14:11:32,286 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: 6
+2015-04-21 14:11:32,286 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Jump (R)
+2015-04-21 14:11:32,286 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Jump (L)
+2015-04-21 14:11:32,286 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: thisactor
+2015-04-21 14:11:32,293 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 14:11:32,341 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 14:11:32,347 DEBUG [pool-1-thread-8] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 14:11:32,349 DEBUG [pool-1-thread-8] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 14:11:32,353 DEBUG [pool-1-thread-8] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Crash Course Game/snippets/list.xml.bak.
+2015-04-21 14:11:32,360 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,360 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,360 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,361 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,361 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,362 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,362 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,363 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,363 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,364 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,364 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,364 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,364 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,365 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,365 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,401 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_2
+2015-04-21 14:11:32,402 DEBUG [pool-1-thread-8] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Crash Course Game/behavior-hx/ActorEvents_2.hx
+2015-04-21 14:11:32,402 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/ActorEvents_2.design
+2015-04-21 14:11:32,402 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: Walking
+2015-04-21 14:11:32,403 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,403 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,403 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,404 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,404 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,404 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,404 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,405 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,405 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,405 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,406 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,406 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,406 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,406 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,406 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:32,408 DEBUG [pool-1-thread-8] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Crash Course Game/behavior-hx/Design_2_2_Walking.hx
+2015-04-21 14:11:32,408 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/Design_2_2_Walking.design
+2015-04-21 14:11:32,408 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_0
+2015-04-21 14:11:32,409 DEBUG [pool-1-thread-8] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Crash Course Game/behavior-hx/ActorEvents_0.hx
+2015-04-21 14:11:32,409 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/ActorEvents_0.design
+2015-04-21 14:11:32,413 DEBUG [pool-1-thread-8] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 14:11:32,417 INFO  [pool-1-thread-8] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 14:11:33,058 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Save Game
+2015-04-21 14:11:33,059 INFO  [pool-1-thread-8] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 14:11:33,063 DEBUG [pool-1-thread-8] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Crash Course Game/game.xml.bak.
+2015-04-21 14:11:34,042 DEBUG [pool-1-thread-8] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 14:11:34,044 DEBUG [pool-1-thread-8] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Crash Course Game/resources/data.xml.bak.
+2015-04-21 14:11:34,052 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.TilesetWriter: Mark tileset as clean (disk).
+2015-04-21 14:11:34,057 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SoundWriter: Mark background as clean (disk).
+2015-04-21 14:11:34,059 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Saving Snippet: Die in Pit and Reload
+2015-04-21 14:11:34,060 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: thisactor
+2015-04-21 14:11:34,060 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Saving Snippet: Walking
+2015-04-21 14:11:34,060 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Value: right
+2015-04-21 14:11:34,060 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: right
+2015-04-21 14:11:34,060 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Value: left
+2015-04-21 14:11:34,060 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: left
+2015-04-21 14:11:34,060 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: 15
+2015-04-21 14:11:34,060 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Walk (R)
+2015-04-21 14:11:34,060 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Walk (L)
+2015-04-21 14:11:34,060 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Idle (R)
+2015-04-21 14:11:34,060 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Idle (L)
+2015-04-21 14:11:34,061 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: thisactor
+2015-04-21 14:11:34,061 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Saving Snippet: Stomp on Enemies
+2015-04-21 14:11:34,061 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Value: Enemies
+2015-04-21 14:11:34,061 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: 4
+2015-04-21 14:11:34,061 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Value: Jump
+2015-04-21 14:11:34,061 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Jump
+2015-04-21 14:11:34,061 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: thisactor
+2015-04-21 14:11:34,061 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Saving Snippet: Jumping
+2015-04-21 14:11:34,061 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Value: Jump
+2015-04-21 14:11:34,061 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Jump
+2015-04-21 14:11:34,061 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: 25
+2015-04-21 14:11:34,061 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Value: Jump
+2015-04-21 14:11:34,062 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: 6
+2015-04-21 14:11:34,062 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Jump (R)
+2015-04-21 14:11:34,062 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: Jump (L)
+2015-04-21 14:11:34,062 DEBUG [pool-1-thread-8] stencyl.sw.editors.behavior.SnippetSheet: Instance Value: thisactor
+2015-04-21 14:11:34,069 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 14:11:34,077 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 14:11:34,080 DEBUG [pool-1-thread-8] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 14:11:34,081 DEBUG [pool-1-thread-8] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 14:11:34,083 DEBUG [pool-1-thread-8] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Crash Course Game/snippets/list.xml.bak.
+2015-04-21 14:11:34,086 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,086 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,086 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,086 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,086 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,087 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,087 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,087 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,087 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,087 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,088 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,088 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,088 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,088 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,088 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,120 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_2
+2015-04-21 14:11:34,121 DEBUG [pool-1-thread-8] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Crash Course Game/behavior-hx/ActorEvents_2.hx
+2015-04-21 14:11:34,121 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/ActorEvents_2.design
+2015-04-21 14:11:34,122 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: Walking
+2015-04-21 14:11:34,122 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,123 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,123 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,123 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,123 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,124 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,124 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,124 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,124 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,125 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,125 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,125 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,125 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,126 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,126 DEBUG [pool-1-thread-8] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 14:11:34,128 DEBUG [pool-1-thread-8] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Crash Course Game/behavior-hx/Design_2_2_Walking.hx
+2015-04-21 14:11:34,128 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/Design_2_2_Walking.design
+2015-04-21 14:11:34,128 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_0
+2015-04-21 14:11:34,129 DEBUG [pool-1-thread-8] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Crash Course Game/behavior-hx/ActorEvents_0.hx
+2015-04-21 14:11:34,130 DEBUG [pool-1-thread-8] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Crash Course Game/snippets/ActorEvents_0.design
+2015-04-21 14:11:34,133 DEBUG [pool-1-thread-8] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 14:11:34,137 INFO  [pool-1-thread-8] stencyl.sw.io.write.MasterWriter: Done writing game.

@@ -1,0 +1,156 @@
+2015-04-21 13:52:02,500 INFO  [main] stencyl.sw.Session: Logfile: /Users/Yago/stencylworks/logs/2015-04-21_13-52-02.log
+2015-04-21 13:52:02,505 INFO  [main] stencyl.sw.Session: OS Name: Mac OS X
+2015-04-21 13:52:02,505 INFO  [main] stencyl.sw.Session: OS Version: 10.10.2
+2015-04-21 13:52:02,505 INFO  [main] stencyl.sw.Session: Java Version: 1.6.0_65
+2015-04-21 13:52:02,506 INFO  [main] stencyl.sw.Session: Stencyl Version: 3.3.0 (b8281)
+2015-04-21 13:52:02,507 INFO  [main] stencyl.sw.Session: Stencyl Workspace: /Users/Yago/
+2015-04-21 13:52:02,507 INFO  [main] stencyl.sw.Session: Current Working Directory: /Applications/Stencyl-full
+2015-04-21 13:52:02,547 DEBUG [main] stencyl.sw.util.FileHelper: Deleting: /var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl5420354852804432508
+2015-04-21 13:52:02,548 INFO  [AWT-EventQueue-0] stencyl.sw.SW: Initializing Stencyl.
+2015-04-21 13:52:02,620 DEBUG [Thread-4] stencyl.sw.util.StreamGobbler: [xcodebuild] Xcode 6.3
+2015-04-21 13:52:02,622 DEBUG [Thread-4] stencyl.sw.util.StreamGobbler: [xcodebuild] Build version 6D570
+2015-04-21 13:52:02,627 INFO  [AWT-EventQueue-0] stencyl.sw.app.filewatcher.ExternalAppLauncher: Xcode found in the /Applications/Xcode.app/Contents/Developer directory (4.3 or newer).
+2015-04-21 13:52:02,628 INFO  [AWT-EventQueue-0] stencyl.sw.app.filewatcher.ExternalAppLauncher: Xcode Version: 6.3
+2015-04-21 13:52:02,629 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtension: Loading engine extensions...
+2015-04-21 13:52:02,629 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Contents of /Users/Yago/stencylworks/engine-extensions: []
+2015-04-21 13:52:02,630 INFO  [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtension: Engine Extensions: []
+2015-04-21 13:52:02,634 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Contents of /Users/Yago/stencylworks/extensions: []
+2015-04-21 13:52:03,213 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Welcome Center
+2015-04-21 13:52:03,217 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Silent Authentication.
+2015-04-21 13:52:03,375 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Response: user:::plans0
+2015-04-21 13:52:03,376 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Deleting: /Users/Yago/stencylworks/prefs/auth.txt
+2015-04-21 13:52:03,384 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Logged in as: RipeTheWorld
+2015-04-21 13:52:03,384 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Usergroup: Registered
+2015-04-21 13:52:03,583 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: 200
+2015-04-21 13:52:07,426 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl5420354852804432508/sandbox/test/temp
+2015-04-21 13:52:07,427 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/preview/scripts
+2015-04-21 13:52:07,427 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/preview/game
+2015-04-21 13:52:07,515 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 4 : Grass Land Tileset
+2015-04-21 13:52:07,543 WARN  [pool-1-thread-1] stencyl.sw.data.EditableTileset: Missing 1.5x size tileset image. Write it to resources/4@1.5x.png
+2015-04-21 13:52:07,642 WARN  [pool-1-thread-1] stencyl.sw.data.EditableTileset: Missing 2x size tileset image. Write it to resources/4@2x.png
+2015-04-21 13:52:07,750 WARN  [pool-1-thread-1] stencyl.sw.data.EditableTileset: Missing 4x size tileset image. Write it to resources/4@4x.png
+2015-04-21 13:52:08,003 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 6 : Jump
+2015-04-21 13:52:08,004 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 1 : Mambo
+2015-04-21 13:52:08,018 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 1.5x size animation image. Wrote it to resources/1-0@1.5x.png
+2015-04-21 13:52:08,037 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 2x size animation image. Wrote it to resources/1-0@2x.png
+2015-04-21 13:52:08,052 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 4x size animation image. Wrote it to resources/1-0@4x.png
+2015-04-21 13:52:08,074 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 1.5x size animation image. Wrote it to resources/1-1@1.5x.png
+2015-04-21 13:52:08,082 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 2x size animation image. Wrote it to resources/1-1@2x.png
+2015-04-21 13:52:08,089 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 4x size animation image. Wrote it to resources/1-1@4x.png
+2015-04-21 13:52:08,102 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 1.5x size animation image. Wrote it to resources/1-4@1.5x.png
+2015-04-21 13:52:08,105 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 2x size animation image. Wrote it to resources/1-4@2x.png
+2015-04-21 13:52:08,108 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 4x size animation image. Wrote it to resources/1-4@4x.png
+2015-04-21 13:52:08,117 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 1.5x size animation image. Wrote it to resources/1-6@1.5x.png
+2015-04-21 13:52:08,122 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 2x size animation image. Wrote it to resources/1-6@2x.png
+2015-04-21 13:52:08,125 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 4x size animation image. Wrote it to resources/1-6@4x.png
+2015-04-21 13:52:08,135 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 1.5x size animation image. Wrote it to resources/1-8@1.5x.png
+2015-04-21 13:52:08,137 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 2x size animation image. Wrote it to resources/1-8@2x.png
+2015-04-21 13:52:08,140 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 4x size animation image. Wrote it to resources/1-8@4x.png
+2015-04-21 13:52:08,162 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 1.5x size animation image. Wrote it to resources/1-10@1.5x.png
+2015-04-21 13:52:08,166 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 2x size animation image. Wrote it to resources/1-10@2x.png
+2015-04-21 13:52:08,173 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 4x size animation image. Wrote it to resources/1-10@4x.png
+2015-04-21 13:52:08,181 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 0 : Mambo
+2015-04-21 13:52:08,183 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 3 : Pronger
+2015-04-21 13:52:08,185 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 1.5x size animation image. Wrote it to resources/3-0@1.5x.png
+2015-04-21 13:52:08,190 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 2x size animation image. Wrote it to resources/3-0@2x.png
+2015-04-21 13:52:08,195 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 4x size animation image. Wrote it to resources/3-0@4x.png
+2015-04-21 13:52:08,213 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 1.5x size animation image. Wrote it to resources/3-1@1.5x.png
+2015-04-21 13:52:08,216 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 2x size animation image. Wrote it to resources/3-1@2x.png
+2015-04-21 13:52:08,219 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 4x size animation image. Wrote it to resources/3-1@4x.png
+2015-04-21 13:52:08,229 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 1.5x size animation image. Wrote it to resources/3-2@1.5x.png
+2015-04-21 13:52:08,233 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 2x size animation image. Wrote it to resources/3-2@2x.png
+2015-04-21 13:52:08,238 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 4x size animation image. Wrote it to resources/3-2@4x.png
+2015-04-21 13:52:08,253 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 1.5x size animation image. Wrote it to resources/3-3@1.5x.png
+2015-04-21 13:52:08,256 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 2x size animation image. Wrote it to resources/3-3@2x.png
+2015-04-21 13:52:08,260 WARN  [pool-1-thread-1] stencyl.sw.data.EditableAnimation: Missing 4x size animation image. Wrote it to resources/3-3@4x.png
+2015-04-21 13:52:08,269 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 2 : Pronger
+2015-04-21 13:52:08,270 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 5 : Stomp
+2015-04-21 13:52:08,270 DEBUG [pool-1-thread-1] stencyl.core.engine.sound.ISoundClip: Loading Sound 5
+2015-04-21 13:52:08,270 DEBUG [pool-1-thread-1] stencyl.core.engine.sound.ISoundClip: Loading Sound 6
+2015-04-21 13:52:08,429 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-04-21 13:52:08,429 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /private/var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl5420354852804432508/sandbox/build/code
+2015-04-21 13:52:08,430 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl5420354852804432508/sandbox/test/temp
+2015-04-21 13:52:08,506 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenGameTask: Took 1079ms
+2015-04-21 13:52:08,683 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Actors
+2015-04-21 13:52:08,690 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Doodads
+2015-04-21 13:52:08,698 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Players
+2015-04-21 13:52:08,701 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Regions
+2015-04-21 13:52:08,709 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Tiles
+2015-04-21 13:52:08,714 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Enemies
+2015-04-21 13:52:09,061 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.mobile.MobilePage: Found the following simulator versions: [iPhoneSimulator.sdk, iPhoneSimulator8.3.sdk]
+2015-04-21 13:52:09,438 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 0
+2015-04-21 13:52:09,438 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Mambo' to atlas 0
+2015-04-21 13:52:09,439 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Pronger' to atlas 0
+2015-04-21 13:52:09,439 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Grass Land Tileset' to atlas 0
+2015-04-21 13:52:09,439 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Stomp' to atlas 0
+2015-04-21 13:52:09,439 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Jump' to atlas 0
+2015-04-21 13:52:09,447 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 1
+2015-04-21 13:52:09,449 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 2
+2015-04-21 13:52:09,452 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 3
+2015-04-21 13:52:09,455 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 4
+2015-04-21 13:52:09,457 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 5
+2015-04-21 13:52:09,460 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 6
+2015-04-21 13:52:09,462 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 7
+2015-04-21 13:52:09,465 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 8
+2015-04-21 13:52:09,467 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 9
+2015-04-21 13:52:09,470 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 10
+2015-04-21 13:52:09,474 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 11
+2015-04-21 13:52:09,476 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 12
+2015-04-21 13:52:09,479 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 13
+2015-04-21 13:52:09,481 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 14
+2015-04-21 13:52:09,484 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 15
+2015-04-21 13:52:09,487 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 17
+2015-04-21 13:52:09,490 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 16
+2015-04-21 13:52:09,493 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 19
+2015-04-21 13:52:09,496 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 18
+2015-04-21 13:52:09,499 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 21
+2015-04-21 13:52:09,502 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 20
+2015-04-21 13:52:09,505 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 23
+2015-04-21 13:52:09,508 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 22
+2015-04-21 13:52:09,511 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 25
+2015-04-21 13:52:09,515 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 24
+2015-04-21 13:52:09,519 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 27
+2015-04-21 13:52:09,524 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 26
+2015-04-21 13:52:09,527 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 29
+2015-04-21 13:52:09,531 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 28
+2015-04-21 13:52:09,535 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 31
+2015-04-21 13:52:09,539 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 30
+2015-04-21 13:52:15,675 INFO  [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 13:52:15,690 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Crash Course Kit/game.xml.bak.
+2015-04-21 13:52:17,339 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 13:52:17,348 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Crash Course Kit/resources/data.xml.bak.
+2015-04-21 13:52:17,353 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.TilesetWriter: Mark tileset as clean (disk).
+2015-04-21 13:52:17,355 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 13:52:17,356 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 13:52:17,374 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 13:52:17,377 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 13:52:17,383 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Crash Course Kit/snippets/list.xml.bak.
+2015-04-21 13:52:17,401 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 13:52:17,404 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.FavoriteManager: Favorites file /Users/Yago/stencylworks/prefs/favorites.xml does not exist.
+2015-04-21 13:52:17,404 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.FavoriteManager: Favorites file /Users/Yago/stencylworks/prefs/picker-favorites.xml does not exist.
+2015-04-21 13:52:17,408 INFO  [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 13:52:33,081 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Scene
+2015-04-21 13:52:36,112 INFO  [AWT-EventQueue-0] stencyl.sw.app.App: Attempting to quit out of Stencyl.
+2015-04-21 13:52:37,369 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, neko]
+2015-04-21 13:52:37,383 DEBUG [Thread-7] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 13:52:37,383 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 13:52:37,384 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, adb]
+2015-04-21 13:52:37,394 DEBUG [Thread-8] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 13:52:37,394 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 13:52:37,395 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, arm-linux-androideabi-g++]
+2015-04-21 13:52:37,405 DEBUG [Thread-9] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 13:52:37,405 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 13:52:37,405 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, cc1plus]
+2015-04-21 13:52:37,415 DEBUG [Thread-10] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 13:52:37,415 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 13:52:37,415 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, tail]
+2015-04-21 13:52:37,425 DEBUG [Thread-11] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 13:52:37,425 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 13:52:37,426 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, ios-sim]
+2015-04-21 13:52:37,435 DEBUG [Thread-12] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 13:52:37,435 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 13:52:37,437 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Destroying extensions.
+2015-04-21 13:52:37,437 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Destroying Temporary Sandbox.
+2015-04-21 13:52:37,437 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl5420354852804432508
+2015-04-21 13:52:37,438 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Performing final close.
+2015-04-21 13:52:37,441 INFO  [AWT-EventQueue-0] stencyl.sw.app.App: Exiting...

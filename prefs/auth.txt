@@ -1,0 +1,2 @@
+global.password=05ab9d93e3a679e3bd02d42a8215cc1cd692859f
+global.user=RipeTheWorld
