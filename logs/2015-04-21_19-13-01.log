@@ -65,3 +65,27 @@
 2015-04-21 19:13:10,439 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 2
 2015-04-21 19:13:10,442 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 3
 2015-04-21 19:13:10,478 DEBUG [AWT-EventQueue-0] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (Level One) from: scenes/0.xml
+2015-04-21 19:15:33,253 INFO  [AWT-EventQueue-0] stencyl.sw.app.App: Attempting to quit out of Stencyl.
+2015-04-21 19:15:34,755 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, neko]
+2015-04-21 19:15:34,770 DEBUG [Thread-7] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 19:15:34,770 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 19:15:34,771 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, adb]
+2015-04-21 19:15:34,783 DEBUG [Thread-8] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 19:15:34,783 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 19:15:34,784 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, arm-linux-androideabi-g++]
+2015-04-21 19:15:34,799 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 19:15:34,800 DEBUG [Thread-9] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 19:15:34,800 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, cc1plus]
+2015-04-21 19:15:34,812 DEBUG [Thread-10] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 19:15:34,813 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 19:15:34,813 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, tail]
+2015-04-21 19:15:34,825 DEBUG [Thread-11] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 19:15:34,825 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 19:15:34,826 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, ios-sim]
+2015-04-21 19:15:34,838 DEBUG [Thread-12] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 19:15:34,838 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 19:15:34,839 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Destroying extensions.
+2015-04-21 19:15:34,839 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Destroying Temporary Sandbox.
+2015-04-21 19:15:34,839 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl3595638318696884959
+2015-04-21 19:15:34,840 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Performing final close.
+2015-04-21 19:15:34,842 INFO  [AWT-EventQueue-0] stencyl.sw.app.App: Exiting...

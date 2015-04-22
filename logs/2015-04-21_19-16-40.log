@@ -1,0 +1,154 @@
+2015-04-21 19:16:40,520 INFO  [main] stencyl.sw.Session: Logfile: /Users/Yago/stencylworks/logs/2015-04-21_19-16-40.log
+2015-04-21 19:16:40,525 INFO  [main] stencyl.sw.Session: OS Name: Mac OS X
+2015-04-21 19:16:40,525 INFO  [main] stencyl.sw.Session: OS Version: 10.10.3
+2015-04-21 19:16:40,525 INFO  [main] stencyl.sw.Session: Java Version: 1.6.0_65
+2015-04-21 19:16:40,526 INFO  [main] stencyl.sw.Session: Stencyl Version: 3.3.0 (b8281)
+2015-04-21 19:16:40,526 INFO  [main] stencyl.sw.Session: Stencyl Workspace: /Users/Yago/
+2015-04-21 19:16:40,527 INFO  [main] stencyl.sw.Session: Current Working Directory: /Applications/Stencyl-full
+2015-04-21 19:16:40,562 DEBUG [main] stencyl.sw.util.FileHelper: Deleting: /var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl4793496674941382902
+2015-04-21 19:16:40,563 INFO  [AWT-EventQueue-0] stencyl.sw.SW: Initializing Stencyl.
+2015-04-21 19:16:40,629 DEBUG [Thread-4] stencyl.sw.util.StreamGobbler: [xcodebuild] Xcode 6.3.1
+2015-04-21 19:16:40,631 DEBUG [Thread-4] stencyl.sw.util.StreamGobbler: [xcodebuild] Build version 6D1002
+2015-04-21 19:16:40,636 INFO  [AWT-EventQueue-0] stencyl.sw.app.filewatcher.ExternalAppLauncher: Xcode found in the /Applications/Xcode.app/Contents/Developer directory (4.3 or newer).
+2015-04-21 19:16:40,637 INFO  [AWT-EventQueue-0] stencyl.sw.app.filewatcher.ExternalAppLauncher: Xcode Version: 6.3
+2015-04-21 19:16:40,638 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtension: Loading engine extensions...
+2015-04-21 19:16:40,639 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Contents of /Users/Yago/stencylworks/engine-extensions: []
+2015-04-21 19:16:40,639 INFO  [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtension: Engine Extensions: []
+2015-04-21 19:16:40,644 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Contents of /Users/Yago/stencylworks/extensions: []
+2015-04-21 19:16:41,248 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Welcome Center
+2015-04-21 19:16:41,252 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Silent Authentication.
+2015-04-21 19:16:41,747 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Response: user:::plans0
+2015-04-21 19:16:41,748 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Deleting: /Users/Yago/stencylworks/prefs/auth.txt
+2015-04-21 19:16:41,756 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Logged in as: RipeTheWorld
+2015-04-21 19:16:41,756 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Usergroup: Registered
+2015-04-21 19:16:41,971 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: 200
+2015-04-21 19:16:43,062 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl4793496674941382902/sandbox/test/temp
+2015-04-21 19:16:43,063 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /Users/Yago/stencylworks/preview/scripts
+2015-04-21 19:16:43,063 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /Users/Yago/stencylworks/preview/game
+2015-04-21 19:16:43,106 DEBUG [pool-1-thread-1] stencyl.core.lib.Game: Loading scene-specific snippet. SceneID: 0
+2015-04-21 19:16:43,117 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 4 : Bullet
+2015-04-21 19:16:43,118 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 5 : Bullet
+2015-04-21 19:16:43,129 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 10 : Default Font
+2015-04-21 19:16:43,132 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 2 : Enemy Ship
+2015-04-21 19:16:43,133 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 3 : Enemy Ship
+2015-04-21 19:16:43,135 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 7 : Explosion
+2015-04-21 19:16:43,135 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 8 : General Shooter Spacey Level
+2015-04-21 19:16:43,136 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 0 : Ship
+2015-04-21 19:16:43,136 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 1 : Ship
+2015-04-21 19:16:43,139 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 9 : Stars
+2015-04-21 19:16:43,171 DEBUG [pool-1-thread-1] stencyl.core.engine.sound.ISoundClip: Loading Sound 7
+2015-04-21 19:16:43,171 DEBUG [pool-1-thread-1] stencyl.core.engine.sound.ISoundClip: Loading Sound 8
+2015-04-21 19:16:43,223 DEBUG [AWT-EventQueue-0] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (Level One) from: scenes/0.xml
+2015-04-21 19:16:43,233 DEBUG [AWT-EventQueue-0] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (Level One) from: scenes/0.xml
+2015-04-21 19:16:43,332 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-04-21 19:16:43,333 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /private/var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl4793496674941382902/sandbox/build/code
+2015-04-21 19:16:43,333 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl4793496674941382902/sandbox/test/temp
+2015-04-21 19:16:43,342 DEBUG [AWT-EventQueue-0] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (Level One) from: scenes/0.xml
+2015-04-21 19:16:43,427 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenGameTask: Took 364ms
+2015-04-21 19:16:43,608 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Actors
+2015-04-21 19:16:43,617 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Doodads
+2015-04-21 19:16:43,625 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Players
+2015-04-21 19:16:43,629 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Regions
+2015-04-21 19:16:43,636 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Tiles
+2015-04-21 19:16:43,640 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Bullets
+2015-04-21 19:16:43,644 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Enemies
+2015-04-21 19:16:44,060 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.mobile.MobilePage: Found the following simulator versions: [iPhoneSimulator.sdk, iPhoneSimulator8.3.sdk]
+2015-04-21 19:16:44,392 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 0
+2015-04-21 19:16:44,392 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Ship' to atlas 0
+2015-04-21 19:16:44,393 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Enemy Ship' to atlas 0
+2015-04-21 19:16:44,393 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Bullet' to atlas 0
+2015-04-21 19:16:44,393 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Explosion' to atlas 0
+2015-04-21 19:16:44,393 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'General Shooter Spacey Level' to atlas 0
+2015-04-21 19:16:44,393 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Stars' to atlas 0
+2015-04-21 19:16:44,393 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Default Font' to atlas 0
+2015-04-21 19:16:44,399 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 1
+2015-04-21 19:16:44,402 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 2
+2015-04-21 19:16:44,404 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 3
+2015-04-21 19:16:44,429 DEBUG [AWT-EventQueue-0] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (Level One) from: scenes/0.xml
+2015-04-21 19:16:56,678 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Loading Closed Resource: TWATSCIICLe
+2015-04-21 19:16:59,453 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: TWATSCIICLe
+2015-04-21 19:16:59,673 DEBUG [pool-1-thread-1] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (Level One) from: scenes/0.xml
+2015-04-21 19:16:59,678 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.OpenResourceTask: Open Took 3000ms
+2015-04-21 19:16:59,712 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenResourceTask: Total Took 3034ms
+2015-04-21 19:17:02,011 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Save Game
+2015-04-21 19:17:02,013 INFO  [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 19:17:02,026 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/game.xml.bak.
+2015-04-21 19:17:03,432 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 19:17:03,436 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/resources/data.xml.bak.
+2015-04-21 19:17:03,437 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 19:17:03,437 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.FontWriter: Mark font as clean (disk).
+2015-04-21 19:17:03,438 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 19:17:03,438 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 19:17:03,439 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.BackgroundWriter: Skip writing out Background.
+2015-04-21 19:17:03,439 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.BackgroundWriter: Mark background as clean (disk).
+2015-04-21 19:17:03,443 DEBUG [pool-1-thread-1] stencyl.sw.editors.actor.appearance.AppearancePage: Using default size.
+2015-04-21 19:17:03,492 DEBUG [pool-1-thread-1] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (Level One) from: scenes/0.xml
+2015-04-21 19:17:03,496 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 19:17:03,512 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 19:17:03,517 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 19:17:03,520 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/snippets/list.xml.bak.
+2015-04-21 19:17:03,553 DEBUG [pool-1-thread-1] stencyl.sw.app.doc.StencylDoc: Marking as written to disk: TWATSCIICLe
+2015-04-21 19:17:03,553 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_11
+2015-04-21 19:17:03,554 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/ActorEvents_11.hx
+2015-04-21 19:17:03,554 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/ActorEvents_11.design
+2015-04-21 19:17:03,558 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 19:17:03,562 INFO  [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 19:17:04,075 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-04-21 19:17:04,077 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Closed Document: TWATSCIICLe11
+2015-04-21 19:17:06,020 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Save Game
+2015-04-21 19:17:06,021 INFO  [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 19:17:06,028 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/game.xml.bak.
+2015-04-21 19:17:06,980 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 19:17:06,983 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/resources/data.xml.bak.
+2015-04-21 19:17:06,984 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 19:17:06,985 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.FontWriter: Mark font as clean (disk).
+2015-04-21 19:17:06,986 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 19:17:06,986 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 19:17:06,986 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.BackgroundWriter: Skip writing out Background.
+2015-04-21 19:17:06,986 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.BackgroundWriter: Mark background as clean (disk).
+2015-04-21 19:17:06,987 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 19:17:06,990 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 19:17:06,991 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 19:17:06,993 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/snippets/list.xml.bak.
+2015-04-21 19:17:07,008 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 19:17:07,011 INFO  [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 19:17:07,834 INFO  [AWT-EventQueue-0] stencyl.sw.app.App: Attempting to quit out of Stencyl.
+2015-04-21 19:17:09,268 INFO  [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 19:17:09,274 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/game.xml.bak.
+2015-04-21 19:17:10,331 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 19:17:10,333 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/resources/data.xml.bak.
+2015-04-21 19:17:10,334 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 19:17:10,334 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.FontWriter: Mark font as clean (disk).
+2015-04-21 19:17:10,335 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 19:17:10,335 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 19:17:10,335 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.BackgroundWriter: Skip writing out Background.
+2015-04-21 19:17:10,336 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.BackgroundWriter: Mark background as clean (disk).
+2015-04-21 19:17:10,336 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 19:17:10,339 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 19:17:10,341 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 19:17:10,344 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/snippets/list.xml.bak.
+2015-04-21 19:17:10,357 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 19:17:10,360 INFO  [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 19:17:10,395 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, neko]
+2015-04-21 19:17:10,412 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 19:17:10,412 DEBUG [Thread-8] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 19:17:10,413 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, adb]
+2015-04-21 19:17:10,426 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 19:17:10,426 DEBUG [Thread-9] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 19:17:10,426 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, arm-linux-androideabi-g++]
+2015-04-21 19:17:10,443 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 19:17:10,443 DEBUG [Thread-10] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 19:17:10,443 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, cc1plus]
+2015-04-21 19:17:10,455 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 19:17:10,455 DEBUG [Thread-11] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 19:17:10,455 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, tail]
+2015-04-21 19:17:10,470 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 19:17:10,470 DEBUG [Thread-12] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 19:17:10,470 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, ios-sim]
+2015-04-21 19:17:10,483 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 19:17:10,485 DEBUG [Thread-13] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 19:17:10,485 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Destroying extensions.
+2015-04-21 19:17:10,485 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Destroying Temporary Sandbox.
+2015-04-21 19:17:10,485 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl4793496674941382902
+2015-04-21 19:17:10,486 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Performing final close.
+2015-04-21 19:17:10,489 INFO  [AWT-EventQueue-0] stencyl.sw.app.App: Exiting...
