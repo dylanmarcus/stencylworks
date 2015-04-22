@@ -85,16 +85,16 @@
         <poly id="13" name="Tri 30-2L" pts="0.0,0.0#0.0,1.0#1.0,1.0#1.0,0.5"/>
         <poly id="14" name="Tri 30R Inv" pts="0.0,0.0#1.0,0.5#1.0,0.0"/>
         <poly id="15" name="Tri 30L Inv" pts="0.0,0.0#0.0,0.5#1.0,0.0"/>
-        <poly id="17" name="Tri 30-2L Inv" pts="0.0,0.0#0.0,1.0#1.0,0.5#1.0,0.0"/>
         <poly id="16" name="Tri 30-2R Inv" pts="0.0,0.0#0.0,0.5#1.0,1.0#1.0,0.0"/>
-        <poly id="19" name="Tri 60L" pts="0.0,0.0#0.0,1.0#0.5,1.0"/>
+        <poly id="17" name="Tri 30-2L Inv" pts="0.0,0.0#0.0,1.0#1.0,0.5#1.0,0.0"/>
         <poly id="18" name="Tri 60R" pts="0.5,1.0#1.0,1.0#1.0,0.0"/>
-        <poly id="21" name="Tri 60-2L" pts="0.0,0.0#0.0,1.0#1.0,1.0#0.5,0.0"/>
+        <poly id="19" name="Tri 60L" pts="0.0,0.0#0.0,1.0#0.5,1.0"/>
         <poly id="20" name="Tri 60-2R" pts="0.5,0.0#0.0,1.0#1.0,1.0#1.0,0.0"/>
-        <poly id="23" name="Tri 60L Inv" pts="0.0,0.0#0.0,1.0#0.5,0.0"/>
+        <poly id="21" name="Tri 60-2L" pts="0.0,0.0#0.0,1.0#1.0,1.0#0.5,0.0"/>
         <poly id="22" name="Tri 60R Inv" pts="0.5,0.0#1.0,1.0#1.0,0.0"/>
-        <poly id="25" name="Tri 60-2L Inv" pts="0.0,0.0#0.0,1.0#0.5,1.0#1.0,0.0"/>
+        <poly id="23" name="Tri 60L Inv" pts="0.0,0.0#0.0,1.0#0.5,0.0"/>
         <poly id="24" name="Tri 60-2R Inv" pts="0.0,0.0#0.5,1.0#1.0,1.0#1.0,0.0"/>
+        <poly id="25" name="Tri 60-2L Inv" pts="0.0,0.0#0.0,1.0#0.5,1.0#1.0,0.0"/>
     </collisions>
     <atlases>
         <atlas allScenes="true" desc="" dirty="true" id="0" members="0,2,4,7,8,9,10," name="Main Atlas" pvr="false" resize="0" target="0"/>

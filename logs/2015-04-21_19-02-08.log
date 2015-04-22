@@ -1,0 +1,48 @@
+2015-04-21 19:02:08,577 INFO  [main] stencyl.sw.Session: Logfile: /Users/milo/stencylworks/logs/2015-04-21_19-02-08.log
+2015-04-21 19:02:08,583 INFO  [main] stencyl.sw.Session: OS Name: Mac OS X
+2015-04-21 19:02:08,583 INFO  [main] stencyl.sw.Session: OS Version: 10.10.3
+2015-04-21 19:02:08,584 INFO  [main] stencyl.sw.Session: Java Version: 1.8.0_45
+2015-04-21 19:02:08,584 INFO  [main] stencyl.sw.Session: Stencyl Version: 3.3.0 (b8281)
+2015-04-21 19:02:08,585 INFO  [main] stencyl.sw.Session: Stencyl Workspace: /Users/milo/
+2015-04-21 19:02:08,585 INFO  [main] stencyl.sw.Session: Current Working Directory: /Applications/Stencyl-full
+2015-04-21 19:02:08,617 DEBUG [main] stencyl.sw.util.FileHelper: Deleting: /var/folders/wc/3f7x7yk54vvbmfdgqmbr7x780000gn/T/stencyl6961387724835006262
+2015-04-21 19:02:08,741 INFO  [AWT-EventQueue-0] stencyl.sw.SW: Initializing Stencyl.
+2015-04-21 19:02:09,011 DEBUG [Thread-2] stencyl.sw.util.StreamGobbler: [xcodebuild] Xcode 6.3
+2015-04-21 19:02:09,020 DEBUG [Thread-2] stencyl.sw.util.StreamGobbler: [xcodebuild] Build version 6D570
+2015-04-21 19:02:09,035 INFO  [AWT-EventQueue-0] stencyl.sw.app.filewatcher.ExternalAppLauncher: Xcode found in the /Applications/Xcode.app/Contents/Developer directory (4.3 or newer).
+2015-04-21 19:02:09,037 INFO  [AWT-EventQueue-0] stencyl.sw.app.filewatcher.ExternalAppLauncher: Xcode Version: 6.3
+2015-04-21 19:02:09,038 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtension: Loading engine extensions...
+2015-04-21 19:02:09,040 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Contents of /Users/milo/stencylworks/engine-extensions: []
+2015-04-21 19:02:09,040 INFO  [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtension: Engine Extensions: []
+2015-04-21 19:02:09,045 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Contents of /Users/milo/stencylworks/extensions: []
+2015-04-21 19:02:09,860 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Welcome Center
+2015-04-21 19:02:09,865 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Silent Authentication.
+2015-04-21 19:02:10,475 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Response: user:::plans0
+2015-04-21 19:02:10,477 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Deleting: /Users/milo/stencylworks/prefs/auth.txt
+2015-04-21 19:02:10,490 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Logged in as: RipeTheWorld
+2015-04-21 19:02:10,491 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Usergroup: Registered
+2015-04-21 19:02:10,806 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: 200
+2015-04-21 19:02:24,454 INFO  [AWT-EventQueue-0] stencyl.sw.app.App: Attempting to quit out of Stencyl.
+2015-04-21 19:02:24,455 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, neko]
+2015-04-21 19:02:24,462 DEBUG [Thread-4] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 19:02:24,462 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 19:02:24,463 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, adb]
+2015-04-21 19:02:24,470 DEBUG [Thread-5] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 19:02:24,470 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 19:02:24,470 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, arm-linux-androideabi-g++]
+2015-04-21 19:02:24,477 DEBUG [Thread-6] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 19:02:24,477 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 19:02:24,477 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, cc1plus]
+2015-04-21 19:02:24,483 DEBUG [Thread-7] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 19:02:24,483 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 19:02:24,484 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, tail]
+2015-04-21 19:02:24,490 DEBUG [Thread-8] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 19:02:24,490 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 19:02:24,491 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, ios-sim]
+2015-04-21 19:02:24,496 DEBUG [Thread-9] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 19:02:24,496 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 19:02:24,497 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Destroying extensions.
+2015-04-21 19:02:24,497 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Destroying Temporary Sandbox.
+2015-04-21 19:02:24,497 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/wc/3f7x7yk54vvbmfdgqmbr7x780000gn/T/stencyl6961387724835006262
+2015-04-21 19:02:24,498 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Performing final close.
+2015-04-21 19:02:24,499 INFO  [AWT-EventQueue-0] stencyl.sw.app.App: Exiting...
