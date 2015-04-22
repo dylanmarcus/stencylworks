@@ -122,7 +122,7 @@
 	<setenv name="APP_TITLE" value="Invaders" if="mac" />
 	
 	<setenv name="PRERENDERED_ICON" value="true" />
-	<setenv name="IPHONE_STDOUT" value="/private/var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl9186756105636784848/scratch/ios-sim.log" />
+	<setenv name="IPHONE_STDOUT" value="/private/var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl6724037192535984146/scratch/ios-sim.log" />
 	
 	<section if="air">
 	

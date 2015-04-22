@@ -78,7 +78,7 @@ public var _ShipSpeed:Float;
 	{
 		super(actor);
 		nameMap.set("Ship Speed", "_ShipSpeed");
-_ShipSpeed = 20;
+_ShipSpeed = 20.0;
 
 	}
 	
@@ -105,6 +105,34 @@ if(wrapper.enabled)
             actor.setXVelocity(0);
 }
 
+}
+});
+    
+/* ======================== When Updating ========================= */
+addWhenUpdatedListener(null, function(elapsedTime:Float, list:Array<Dynamic>):Void
+{
+if(wrapper.enabled)
+{
+        if((actor.getScreenX() < 0))
+{
+            actor.setX(1);
+}
+
+        else if((actor.getScreenX() > (getScreenWidth() - (actor.getWidth()))))
+{
+            actor.setX(((getScreenWidth() - (actor.getWidth())) - 1));
+}
+
+}
+});
+    
+/* =========================== Keyboard =========================== */
+addKeyStateListener("action1", function(pressed:Bool, released:Bool, list:Array<Dynamic>):Void
+{
+if(wrapper.enabled && pressed)
+{
+        createRecycledActor(getActorType(4), actor.getX(), actor.getY(), Script.FRONT);
+        getLastCreatedActor().applyImpulse(0, -1, 40);
 }
 });
 

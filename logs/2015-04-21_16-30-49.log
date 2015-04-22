@@ -1010,3 +1010,172 @@
 2015-04-21 16:45:34,991 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/ActorEvents_0.design
 2015-04-21 16:45:34,993 DEBUG [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Saving block favorites.
 2015-04-21 16:45:34,995 INFO  [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 17:16:17,739 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6b: Else can only go BELOW an if.
+2015-04-21 17:16:17,755 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6b: Else can only go BELOW an if.
+2015-04-21 17:16:17,771 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6b: Else can only go BELOW an if.
+2015-04-21 17:16:18,203 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:18,222 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:18,240 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:18,255 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:18,284 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:18,320 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:18,351 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:18,384 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:18,417 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:18,433 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:18,468 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:18,511 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:18,544 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:18,561 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:18,578 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:18,596 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:18,613 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:18,631 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:18,648 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:18,665 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:18,682 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:18,940 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:18,956 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:18,971 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:19,002 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:19,035 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:19,177 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:19,241 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:19,274 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:19,298 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:19,322 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:19,354 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:19,386 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:19,427 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:19,459 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Case 6a: Else cannot go inside an if (unless attaching to bottom of another if).
+2015-04-21 17:16:39,967 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Removed: less
+2015-04-21 17:16:39,967 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.Group: refreshPositions(): This group lacks a parent: 1 (Ignore)
+2015-04-21 17:16:44,476 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Removed: more
+2015-04-21 17:16:44,476 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.Group: refreshPositions(): This group lacks a parent: 2 (Ignore)
+2015-04-21 17:17:25,887 INFO  [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.BlockSceneObjectChooser: Set to this actor
+2015-04-21 17:19:01,048 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Removed: get-xy
+2015-04-21 17:19:01,048 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.Group: refreshPositions(): This group lacks a parent: 3 (Ignore)
+2015-04-21 17:19:07,153 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Removed: get-xy
+2015-04-21 17:19:18,560 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Removed: get-xy
+2015-04-21 17:19:37,271 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: Removed: less
+2015-04-21 17:19:44,012 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Save Game
+2015-04-21 17:19:44,013 INFO  [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 17:19:44,017 DEBUG [pool-1-thread-7] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/game.xml.bak.
+2015-04-21 17:19:45,017 DEBUG [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 17:19:45,019 DEBUG [pool-1-thread-7] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/resources/data.xml.bak.
+2015-04-21 17:19:45,019 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 17:19:45,020 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 17:19:45,021 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:45,021 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 3
+2015-04-21 17:19:45,021 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:45,021 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 2
+2015-04-21 17:19:45,022 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:45,022 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 3
+2015-04-21 17:19:45,022 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 2
+2015-04-21 17:19:45,022 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:45,022 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:45,022 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:45,098 DEBUG [pool-1-thread-7] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (Level One) from: scenes/0.xml
+2015-04-21 17:19:45,104 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 17:19:45,105 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.BackgroundWriter: Skip writing out Background.
+2015-04-21 17:19:45,105 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.BackgroundWriter: Mark background as clean (disk).
+2015-04-21 17:19:45,106 DEBUG [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 17:19:45,107 DEBUG [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 17:19:45,110 DEBUG [pool-1-thread-7] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/snippets/list.xml.bak.
+2015-04-21 17:19:45,113 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:45,113 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 3
+2015-04-21 17:19:45,114 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:45,114 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 2
+2015-04-21 17:19:45,114 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:45,115 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 3
+2015-04-21 17:19:45,115 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 2
+2015-04-21 17:19:45,116 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:45,117 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:45,117 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:45,128 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_0
+2015-04-21 17:19:45,128 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:45,129 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 3
+2015-04-21 17:19:45,129 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:45,129 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 2
+2015-04-21 17:19:45,129 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:45,129 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 3
+2015-04-21 17:19:45,129 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 2
+2015-04-21 17:19:45,130 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:45,130 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:45,130 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:45,131 DEBUG [pool-1-thread-7] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/ActorEvents_0.hx
+2015-04-21 17:19:45,131 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/ActorEvents_0.design
+2015-04-21 17:19:45,134 DEBUG [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 17:19:45,136 INFO  [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 17:19:45,723 INFO  [AWT-EventQueue-0] stencyl.sw.app.App: Attempting to quit out of Stencyl.
+2015-04-21 17:19:47,456 INFO  [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-04-21 17:19:47,459 DEBUG [pool-1-thread-7] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/game.xml.bak.
+2015-04-21 17:19:48,442 DEBUG [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-04-21 17:19:48,443 DEBUG [pool-1-thread-7] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/resources/data.xml.bak.
+2015-04-21 17:19:48,444 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 17:19:48,444 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 17:19:48,446 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:48,446 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 3
+2015-04-21 17:19:48,446 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:48,446 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 2
+2015-04-21 17:19:48,446 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:48,447 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 3
+2015-04-21 17:19:48,447 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 2
+2015-04-21 17:19:48,447 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:48,447 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:48,447 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:48,451 DEBUG [pool-1-thread-7] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (Level One) from: scenes/0.xml
+2015-04-21 17:19:48,458 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-04-21 17:19:48,459 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.BackgroundWriter: Skip writing out Background.
+2015-04-21 17:19:48,459 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.BackgroundWriter: Mark background as clean (disk).
+2015-04-21 17:19:48,460 DEBUG [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-04-21 17:19:48,460 DEBUG [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-04-21 17:19:48,461 DEBUG [pool-1-thread-7] stencyl.sw.util.FileHelper: Saving backup file /Users/Yago/stencylworks/games/Invaders/snippets/list.xml.bak.
+2015-04-21 17:19:48,463 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:48,463 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 3
+2015-04-21 17:19:48,463 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:48,464 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 2
+2015-04-21 17:19:48,464 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:48,464 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 3
+2015-04-21 17:19:48,464 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 2
+2015-04-21 17:19:48,464 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:48,465 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:48,465 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:48,475 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: ActorEvents_0
+2015-04-21 17:19:48,475 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:48,475 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 3
+2015-04-21 17:19:48,476 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:48,476 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 2
+2015-04-21 17:19:48,476 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:48,476 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 3
+2015-04-21 17:19:48,476 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out generic element ID: 2
+2015-04-21 17:19:48,477 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:48,477 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:48,477 DEBUG [pool-1-thread-7] stencyl.sw.editors.snippet.designer.Block: Write out thisActor
+2015-04-21 17:19:48,478 DEBUG [pool-1-thread-7] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/Yago/stencylworks/games/Invaders/behavior-hx/ActorEvents_0.hx
+2015-04-21 17:19:48,478 DEBUG [pool-1-thread-7] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/Yago/stencylworks/games/Invaders/snippets/ActorEvents_0.design
+2015-04-21 17:19:48,481 DEBUG [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-04-21 17:19:48,483 INFO  [pool-1-thread-7] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-04-21 17:19:48,518 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, neko]
+2015-04-21 17:19:48,536 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 17:19:48,536 DEBUG [Thread-32] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 17:19:48,536 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, adb]
+2015-04-21 17:19:48,547 DEBUG [Thread-33] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 17:19:48,547 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 17:19:48,547 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, arm-linux-androideabi-g++]
+2015-04-21 17:19:48,558 DEBUG [Thread-34] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 17:19:48,558 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 17:19:48,558 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, cc1plus]
+2015-04-21 17:19:48,569 DEBUG [Thread-35] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 17:19:48,569 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 17:19:48,569 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, tail]
+2015-04-21 17:19:48,578 DEBUG [Thread-36] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 17:19:48,578 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 17:19:48,578 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, ios-sim]
+2015-04-21 17:19:48,589 DEBUG [Thread-37] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-04-21 17:19:48,589 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-04-21 17:19:48,596 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Destroying extensions.
+2015-04-21 17:19:48,596 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Destroying Temporary Sandbox.
+2015-04-21 17:19:48,596 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl9186756105636784848
+2015-04-21 17:19:48,597 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Performing final close.
+2015-04-21 17:19:48,599 INFO  [AWT-EventQueue-0] stencyl.sw.app.App: Exiting...
