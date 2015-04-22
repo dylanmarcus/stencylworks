@@ -71,16 +71,50 @@ import com.stencyl.graphics.shaders.BloomShader;
 class ActorEvents_2 extends ActorScript
 {          	
 	
+public var _HealthPoints:Float;
+
  
  	public function new(dummy:Int, actor:Actor, dummy2:Engine)
 	{
 		super(actor);
-		
+		nameMap.set("Health Points", "_HealthPoints");
+_HealthPoints = 0;
+
 	}
 	
 	override public function init()
 	{
-		
+		    
+/* ======================== When Creating ========================= */
+        _HealthPoints = asNumber(3);
+propertyChanged("_HealthPoints", _HealthPoints);
+    
+/* ======================= Member of Group ======================== */
+addCollisionListener(actor, function(event:Collision, list:Array<Dynamic>):Void
+{
+if(wrapper.enabled && sameAsAny(getActorGroup(5),event.otherActor.getType(),event.otherActor.getGroup()))
+{
+        _HealthPoints -= 1;
+propertyChanged("_HealthPoints", _HealthPoints);
+}
+});
+    
+/* ======================== When Updating ========================= */
+addWhenUpdatedListener(null, function(elapsedTime:Float, list:Array<Dynamic>):Void
+{
+if(wrapper.enabled)
+{
+        if((_HealthPoints <= 0))
+{
+            runLater(1000 * 1.4, function(timeTask:TimedTask):Void {
+                        playSound(getSound(7));
+                        recycleActor(actor);
+}, actor);
+}
+
+}
+});
+
 	}	      	
 	
 	override public function forwardMessage(msg:String)
