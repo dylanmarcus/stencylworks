@@ -31,6 +31,14 @@ class ApplicationMain {
 		types.push (AssetType.IMAGE);
 		
 		
+		urls.push ("assets/graphics/1.5x/font-10.fnt");
+		types.push (AssetType.TEXT);
+		
+		
+		urls.push ("assets/graphics/1.5x/font-10.png");
+		types.push (AssetType.IMAGE);
+		
+		
 		urls.push ("assets/graphics/1.5x/sprite-1-0.png");
 		types.push (AssetType.IMAGE);
 		
@@ -44,6 +52,14 @@ class ApplicationMain {
 		
 		
 		urls.push ("assets/graphics/1x/background-9-0.png");
+		types.push (AssetType.IMAGE);
+		
+		
+		urls.push ("assets/graphics/1x/font-10.fnt");
+		types.push (AssetType.TEXT);
+		
+		
+		urls.push ("assets/graphics/1x/font-10.png");
 		types.push (AssetType.IMAGE);
 		
 		
@@ -63,6 +79,14 @@ class ApplicationMain {
 		types.push (AssetType.IMAGE);
 		
 		
+		urls.push ("assets/graphics/2x/font-10.fnt");
+		types.push (AssetType.TEXT);
+		
+		
+		urls.push ("assets/graphics/2x/font-10.png");
+		types.push (AssetType.IMAGE);
+		
+		
 		urls.push ("assets/graphics/2x/sprite-1-0.png");
 		types.push (AssetType.IMAGE);
 		
@@ -76,6 +100,14 @@ class ApplicationMain {
 		
 		
 		urls.push ("assets/graphics/4x/background-9-0.png");
+		types.push (AssetType.IMAGE);
+		
+		
+		urls.push ("assets/graphics/4x/font-10.fnt");
+		types.push (AssetType.TEXT);
+		
+		
+		urls.push ("assets/graphics/4x/font-10.png");
 		types.push (AssetType.IMAGE);
 		
 		

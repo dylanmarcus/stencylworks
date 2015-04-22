@@ -26,9 +26,14 @@
         </events>
     </snippet>
     <snippet attachedevent="true" class="scripts.SceneEvents_0" classname="scripts.SceneEvents_0" desc="Scene Specific Events" description="Scene Specific Events" design="true" drawOrder="0" id="3" name="SceneEvents_0" oid="-1" package="scripts." sceneid="0" scenespecific="true" shared="false" type="scene">
+        <number default="0" defaultValue="0" desc="" dropdown="" fullname="Victory Counter" hidden="false" id="1" name="_VictoryCounter" order="0"/>
+        <boolean default="false" defaultValue="false" desc="" dropdown="" fullname="Win?" hidden="false" id="2" name="_Win" order="1"/>
         <blocks/>
         <events>
             <event displayName="Created" enabled="true" id="1" name="init" order="1" repeats="true"/>
+            <event displayName="Actor Created" enabled="true" id="2" name="event-group-create-kill" order="2" repeats="true"/>
+            <event displayName="Updated" enabled="true" id="3" name="step" order="3" repeats="true"/>
+            <event displayName="Drawing" enabled="true" id="4" name="draw" order="4" repeats="true"/>
         </events>
     </snippet>
 </pack>

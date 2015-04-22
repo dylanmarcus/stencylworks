@@ -8,6 +8,19 @@
                     <int id="1" val="1"/>
                     <int id="2" val="1"/>
                 </incdec>
+                <apply-filter comment="false" x="43" y="119">
+                    <ACTOR eid="this" id="0"/>
+                    <filter-negative comment="false" id="1" x="0" y="0"/>
+                </apply-filter>
+                <dolater comment="false" x="43" y="151">
+                    <group eventID="1" id="-1">
+                        <clear-filter comment="false" x="54" y="178">
+                            <ACTOR eid="this" id="0"/>
+                        </clear-filter>
+                    </group>
+                    <int id="0" val=".1"/>
+                    <ACTOR eid="this" id="2"/>
+                </dolater>
             </group>
             <ACTOR eid="this" id="0"/>
             <GROUP eid="5" id="1"/>
