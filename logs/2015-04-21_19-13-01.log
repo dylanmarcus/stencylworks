@@ -1,0 +1,67 @@
+2015-04-21 19:13:01,944 INFO  [main] stencyl.sw.Session: Logfile: /Users/Yago/stencylworks/logs/2015-04-21_19-13-01.log
+2015-04-21 19:13:01,948 INFO  [main] stencyl.sw.Session: OS Name: Mac OS X
+2015-04-21 19:13:01,948 INFO  [main] stencyl.sw.Session: OS Version: 10.10.3
+2015-04-21 19:13:01,949 INFO  [main] stencyl.sw.Session: Java Version: 1.6.0_65
+2015-04-21 19:13:01,949 INFO  [main] stencyl.sw.Session: Stencyl Version: 3.3.0 (b8281)
+2015-04-21 19:13:01,950 INFO  [main] stencyl.sw.Session: Stencyl Workspace: /Users/Yago/
+2015-04-21 19:13:01,951 INFO  [main] stencyl.sw.Session: Current Working Directory: /Applications/Stencyl-full
+2015-04-21 19:13:01,982 DEBUG [main] stencyl.sw.util.FileHelper: Deleting: /var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl3595638318696884959
+2015-04-21 19:13:01,983 INFO  [AWT-EventQueue-0] stencyl.sw.SW: Initializing Stencyl.
+2015-04-21 19:13:02,047 DEBUG [Thread-4] stencyl.sw.util.StreamGobbler: [xcodebuild] Xcode 6.3.1
+2015-04-21 19:13:02,050 DEBUG [Thread-4] stencyl.sw.util.StreamGobbler: [xcodebuild] Build version 6D1002
+2015-04-21 19:13:02,055 INFO  [AWT-EventQueue-0] stencyl.sw.app.filewatcher.ExternalAppLauncher: Xcode found in the /Applications/Xcode.app/Contents/Developer directory (4.3 or newer).
+2015-04-21 19:13:02,056 INFO  [AWT-EventQueue-0] stencyl.sw.app.filewatcher.ExternalAppLauncher: Xcode Version: 6.3
+2015-04-21 19:13:02,057 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtension: Loading engine extensions...
+2015-04-21 19:13:02,058 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Contents of /Users/Yago/stencylworks/engine-extensions: []
+2015-04-21 19:13:02,058 INFO  [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtension: Engine Extensions: []
+2015-04-21 19:13:02,064 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Contents of /Users/Yago/stencylworks/extensions: []
+2015-04-21 19:13:02,649 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Welcome Center
+2015-04-21 19:13:02,652 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Silent Authentication.
+2015-04-21 19:13:03,037 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Response: user:::plans0
+2015-04-21 19:13:03,038 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Deleting: /Users/Yago/stencylworks/prefs/auth.txt
+2015-04-21 19:13:03,045 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Logged in as: RipeTheWorld
+2015-04-21 19:13:03,045 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Usergroup: Registered
+2015-04-21 19:13:03,369 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: 200
+2015-04-21 19:13:09,146 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl3595638318696884959/sandbox/test/temp
+2015-04-21 19:13:09,147 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /Users/Yago/stencylworks/preview/scripts
+2015-04-21 19:13:09,148 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /Users/Yago/stencylworks/preview/game
+2015-04-21 19:13:09,183 DEBUG [pool-1-thread-1] stencyl.core.lib.Game: Loading scene-specific snippet. SceneID: 0
+2015-04-21 19:13:09,224 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 4 : Bullet
+2015-04-21 19:13:09,226 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 5 : Bullet
+2015-04-21 19:13:09,234 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 10 : Default Font
+2015-04-21 19:13:09,237 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 2 : Enemy Ship
+2015-04-21 19:13:09,237 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 3 : Enemy Ship
+2015-04-21 19:13:09,238 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 7 : Explosion
+2015-04-21 19:13:09,239 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 8 : General Shooter Spacey Level
+2015-04-21 19:13:09,239 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 0 : Ship
+2015-04-21 19:13:09,239 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 1 : Ship
+2015-04-21 19:13:09,241 DEBUG [pool-1-thread-1] stencyl.core.lib.ResourceList: Initializing... 9 : Stars
+2015-04-21 19:13:09,256 DEBUG [pool-1-thread-1] stencyl.core.engine.sound.ISoundClip: Loading Sound 7
+2015-04-21 19:13:09,256 DEBUG [pool-1-thread-1] stencyl.core.engine.sound.ISoundClip: Loading Sound 8
+2015-04-21 19:13:09,306 DEBUG [AWT-EventQueue-0] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (Level One) from: scenes/0.xml
+2015-04-21 19:13:09,314 DEBUG [AWT-EventQueue-0] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (Level One) from: scenes/0.xml
+2015-04-21 19:13:09,402 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-04-21 19:13:09,403 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /private/var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl3595638318696884959/sandbox/build/code
+2015-04-21 19:13:09,403 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/d6/rls9bn050jd_xrbvgnnmxnd40000gn/T/stencyl3595638318696884959/sandbox/test/temp
+2015-04-21 19:13:09,409 DEBUG [AWT-EventQueue-0] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (Level One) from: scenes/0.xml
+2015-04-21 19:13:09,489 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenGameTask: Took 341ms
+2015-04-21 19:13:09,668 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Actors
+2015-04-21 19:13:09,673 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Doodads
+2015-04-21 19:13:09,680 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Players
+2015-04-21 19:13:09,684 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Regions
+2015-04-21 19:13:09,690 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Tiles
+2015-04-21 19:13:09,694 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Bullets
+2015-04-21 19:13:09,698 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Enemies
+2015-04-21 19:13:10,110 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.mobile.MobilePage: Found the following simulator versions: [iPhoneSimulator.sdk, iPhoneSimulator8.3.sdk]
+2015-04-21 19:13:10,431 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 0
+2015-04-21 19:13:10,431 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Ship' to atlas 0
+2015-04-21 19:13:10,431 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Enemy Ship' to atlas 0
+2015-04-21 19:13:10,431 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Bullet' to atlas 0
+2015-04-21 19:13:10,431 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Explosion' to atlas 0
+2015-04-21 19:13:10,432 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'General Shooter Spacey Level' to atlas 0
+2015-04-21 19:13:10,432 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Stars' to atlas 0
+2015-04-21 19:13:10,432 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Default Font' to atlas 0
+2015-04-21 19:13:10,437 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 1
+2015-04-21 19:13:10,439 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 2
+2015-04-21 19:13:10,442 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 3
+2015-04-21 19:13:10,478 DEBUG [AWT-EventQueue-0] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (Level One) from: scenes/0.xml
